@@ -1,0 +1,39 @@
+# GitHub Pages configuration for Bluebonnet Learning Curriculum
+# Site: https://<username>.github.io/elementary/
+
+title: Bluebonnet Learning Curriculum
+description: Texas-aligned K-5 curriculum materials converted to markdown for AI-assisted lesson planning
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections for curriculum content
+collections:
+  curriculum:
+    output: true
+    permalink: /curriculum/:path/
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Navigation
+header_pages:
+  - index.md
+  - fea-lessons/index.md
+  - ai-tips.md
+
+# Exclude from build
+exclude:
+  - README.md
+  - CLAUDE.md
+  - tools/
+  - sources/
+  - lesson_plans/
+  - .env
+  - "*.log"

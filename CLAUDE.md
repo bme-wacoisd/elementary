@@ -2,7 +2,71 @@
 
 ## Project Purpose
 
-This repository manages curriculum materials from multiple educational sources (starting with Bluebonnet Learning from Texas) and generates lesson plans from those materials.
+This repository supports the **Future Educators Academy (FEA)** at Waco ISD P-TECH, where high school students (grades 9-12) learn to become teachers through Work-Based Learning (WBL). The FEA students come from Waco High School and University High School to South Waco Elementary for half-day sessions, where they prepare and deliver lessons to elementary students (Pre-K through 5th grade) under the guidance of elementary teachers.
+
+**Key stakeholders:**
+- **Brian Edwards** - High School teacher of Instructional Practices and Practicum classes
+- **FEA Students** - High school students learning to teach
+- **Elementary Teachers** - Mentors who guide FEA students in their classrooms
+- **Elementary Students** - Pre-K to 5th grade learners
+
+**Curriculum sources:**
+- **TEA Bluebonnet** - Used for math and foundational literacy (this repository)
+- **HMH via Clever** - Used for reading (separate system)
+
+## FEA Meta-Lesson Development
+
+The primary output of this repository is **meta-lessons** - instructional guides that teach FEA high school students how to prepare and deliver elementary lessons. These are NOT the elementary lessons themselves, but scaffolded guidance for first-time teachers.
+
+### Meta-Lesson Requirements
+
+When creating meta-lessons for FEA students:
+
+1. **Accessibility**: Write at an accessible reading level. Use clear, flowing prose that works well with text-to-speech (Speechify). Vary sentence and paragraph lengths naturally.
+
+2. **First Principles**: Explain concepts from the ground up. Differentiate similar concepts and contrast with opposites. Avoid educational jargon - when technical terms are necessary, define them clearly.
+
+3. **Navigation Guidance**: Include specific instructions for finding source materials:
+   - How to log into tealearn.instructure.com
+   - Exact navigation path to relevant curriculum files
+   - What to look for in the source materials
+
+4. **Pedagogy Connections**: Connect each lesson to research-backed teaching techniques. Critique curriculum where it doesn't follow best practices and suggest alternatives.
+
+5. **Time Constraints**:
+   - Pre-K lessons: Maximum 20 minutes (state guideline)
+   - K-5 lessons: 15-20 minutes typical
+
+6. **Writing Style**:
+   - Flowing text enjoyable for text-to-speech
+   - Varied sentence and paragraph lengths
+   - Avoid: overused terms, lots of short punchy sentences
+   - Spell out acronyms on first use
+
+### Current WBL Focus Areas
+
+- **Phonological Awareness**: Alliteration, onset-rime
+- Additional topics based on WBL schedule
+
+### Meta-Lesson Output Structure
+
+Meta-lessons are saved to `docs/fea-lessons/` alongside the original curriculum in `docs/curriculum/`. Each meta-lesson includes:
+
+1. Overview for the FEA student
+2. Where to find the source material (navigation instructions)
+3. Key concepts explained from first principles
+4. Research-backed techniques demonstrated in this lesson
+5. Critique and alternatives (if applicable)
+6. Step-by-step preparation guide
+7. Delivery tips and common pitfalls
+
+## Privacy Requirements
+
+**CRITICAL**: Never include student Personally Identifiable Information (PII) in any files, especially those deployed to GitHub Pages. This includes:
+- Student names
+- Student IDs
+- Grades or assessment scores
+- Any identifying information
 
 ## Project Structure
 
@@ -11,6 +75,7 @@ elementary/
 ├── CLAUDE.md                    # This file - project guide
 ├── tools/                       # Tooling and scripts
 │   ├── canvas_downloader.py     # Canvas LMS file downloader
+│   ├── pdf_to_markdown.py       # PDF to markdown converter
 │   ├── test_canvas_downloader.py # Tests for the downloader
 │   └── requirements.txt         # Python dependencies
 ├── sources/                     # Source curriculum materials
@@ -22,8 +87,14 @@ elementary/
 ├── lesson_plans/                # Generated lesson plans
 │   ├── drafts/                 # Work-in-progress plans
 │   └── final/                  # Completed, reviewed plans
-└── docs/                        # Documentation
-    └── BLUEBONNET_SPIDER.md    # Canvas download process docs
+├── docs/                        # GitHub Pages site & documentation
+│   ├── _config.yml             # Jekyll configuration
+│   ├── index.md                # Site homepage
+│   ├── ai-tips.md              # AI assistant usage guide
+│   ├── curriculum/             # Converted markdown curriculum
+│   │   └── [course folders]/   # Organized by course/unit
+│   └── BLUEBONNET_SPIDER.md    # Canvas download process docs
+└── README.md                    # Project readme
 ```
 
 ## Getting Started
@@ -50,9 +121,26 @@ python canvas_downloader.py
 python canvas_downloader.py --course 9564
 ```
 
-### 3. Review Downloaded Materials
+### 3. Convert PDFs to Markdown
 
-Materials are organized in `sources/bluebonnet/` by course name and folder structure.
+```bash
+cd tools
+
+# Test conversion on first 3 files
+python pdf_to_markdown.py --input ../sources/bluebonnet --output ../docs/curriculum --test -v
+
+# Convert all PDFs
+python pdf_to_markdown.py --input ../sources/bluebonnet --output ../docs/curriculum -v
+
+# Force overwrite existing files
+python pdf_to_markdown.py --input ../sources/bluebonnet --output ../docs/curriculum --force
+```
+
+### 4. Review Materials
+
+- **Raw PDFs**: `sources/bluebonnet/` organized by course and folder
+- **Markdown**: `docs/curriculum/` for AI-assisted work
+- **Online**: GitHub Pages site (if deployed)
 
 ## Working with Curriculum Materials
 
@@ -221,6 +309,124 @@ Before finalizing lesson plans:
 - [ ] Time estimates are realistic
 - [ ] Differentiation options are meaningful
 - [ ] Assessment aligns with objectives
+
+## Coding Standards
+
+### CRITICAL: Fail-Fast Error Handling
+
+**NEVER remove fail-fast error handling from scripts.** When a script encounters an error, it MUST stop immediately rather than continuing and potentially producing corrupt or incomplete output. This is non-negotiable.
+
+Bad (DO NOT DO THIS):
+```python
+try:
+    process_file(f)
+except Exception as e:
+    logging.warning(f"Skipping {f}: {e}")
+    continue  # BAD - silently continues, hiding problems
+```
+
+Good:
+```python
+try:
+    process_file(f)
+except Exception as e:
+    logging.critical(f"FATAL ERROR processing {f}: {e}")
+    raise  # GOOD - stops immediately, forces fix
+```
+
+### Windows Path Length Limits
+
+Windows has a 260 character path limit. When generating output paths:
+
+**DO:** Flatten/shorten directory structures
+```
+docs/curriculum/G4-RLA/Unit10-Teacher-Guide.md
+```
+
+**DON'T:** Preserve full source hierarchy with long names
+```
+docs/curriculum/Bluebonnet Learning Grade 4 Reading Language Arts,/course files/RLA G4 Unit 10_ Novel Study_ Number the Stars/Unit 10 Teacher Guide G4.md
+```
+
+Use abbreviated course codes:
+- `GK-FS` = Grade K Foundational Skills
+- `G1-Math` = Grade 1 Math
+- `G4-RLA` = Grade 4 Reading Language Arts
+
+### Logging
+
+- Use `logging` module, not print statements
+- Log to both stdout and a log file
+- Include timestamps
+- Use appropriate log levels (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+
+## Google Classroom
+
+### CRITICAL: Never Use Lovelace Classrooms
+
+**NEVER create assignments in classrooms with "Lovelace" in the name.** These are not the correct classrooms for FEA assignments. Always use non-Lovelace classrooms for FEA Work-Based Learning content.
+
+### Course Selection Rules
+
+When selecting a Google Classroom course for assignments:
+
+1. **Student must be enrolled** - The HS student (from the WBL schedule) must be in the class
+2. **Prefer "Instructional Practices & Practicum"** courses over "Communications and Technology"
+3. **Prefer lower numbers** - Use "1 Instructional Practices & Practicum" before "3 Instructional Practices & Practicum"
+
+### CRITICAL: Assign to Specific Students Only
+
+**NEVER assign to the entire class.** Each assignment must be assigned ONLY to the specific student it was created for. The script automatically:
+1. Finds the student by name in the course
+2. Assigns the assignment to that student only (using `assigneeMode: INDIVIDUAL_STUDENTS`)
+3. Fails if the student is not found in the course
+
+### CRITICAL: Edit Assignments In Place
+
+**NEVER create duplicate assignments.** When updating an existing assignment:
+1. Use the Google Classroom API to UPDATE the existing assignment, not create a new one
+2. Use the Google Docs API to UPDATE the existing attached document, not create a new one
+3. If an assignment already exists for a student, modify it rather than creating another
+
+This applies to both the assignment description and the attached Google Doc. Creating duplicates creates confusion and extra cleanup work.
+
+### CRITICAL: Attach Meta-Lessons as Google Docs
+
+**NEVER link to GitHub Pages for meta-lessons.** Instead:
+1. Attach the meta-lesson content as a Google Doc to the assignment
+2. Students should have all materials directly in Google Classroom, not external links
+3. Convert the markdown meta-lesson content to a Google Doc and attach it alongside the lesson plan template
+
+This ensures students can access everything offline and don't need to navigate to external websites.
+
+Available courses (in order of preference):
+- 1 Instructional Practices & Practicum (ID: 835379874594)
+- 3 Instructional Practices & Practicum (ID: 835393083505)
+- 5 Instructional Practices & Practicum (ID: 835750565592)
+- 7 Instructional Practices & Practicum (ID: 835751410075)
+
+When using `create_fea_assignments.py`:
+- Use `--list-courses` to see available courses
+- Select a course that does NOT contain "Lovelace"
+- Verify the course name before publishing with `--publish`
+
+## Git Workflow
+
+### Repository
+
+Remote: https://github.com/bme-wacoisd/elementary.git
+
+### CRITICAL: Commit and Push Often
+
+**Commit and push with every significant change.** Do not accumulate multiple changes before committing. This ensures:
+1. Work is backed up immediately
+2. Changes are visible to collaborators
+3. Easy rollback if something goes wrong
+
+After every code change, file update, or task completion:
+```bash
+git add -A && git commit -m "Brief description" && git push
+```
 
 ## Notes
 

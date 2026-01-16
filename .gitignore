@@ -1,8 +1,12 @@
 # Google APIs credentials
 credentials.json
+token.json
 
 # Files that contain Student PII and should be git ignored.
 student-pii-gitignore/
+
+# Commerical HMH curriculum
+hmh-gitignore/
 
 # log files for tooling
 download.log

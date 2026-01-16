@@ -1,0 +1,989 @@
+2026-01-16 10:52:30 [[32mINFO[0m] 
+2026-01-16 10:52:30 [[32mINFO[0m] ============================================================
+2026-01-16 10:52:30 [[32mINFO[0m] PDF TO MARKDOWN CONVERTER
+2026-01-16 10:52:30 [[32mINFO[0m] ============================================================
+2026-01-16 10:52:30 [[32mINFO[0m] Input:  C:\Users\brian.edwards\elementary\sources\bluebonnet
+2026-01-16 10:52:30 [[32mINFO[0m] Output: C:\Users\brian.edwards\elementary\docs\curriculum
+2026-01-16 10:52:30 [[32mINFO[0m] Force:  False
+2026-01-16 10:52:30 [[32mINFO[0m] ============================================================
+2026-01-16 10:52:30 [[32mINFO[0m] Scanning for PDF files...
+2026-01-16 10:52:30 [[32mINFO[0m]   Found 1215 PDF files
+2026-01-16 10:52:30 [[32mINFO[0m] 
+[1/1215] Consonant Code Flip Book.pdf
+2026-01-16 10:52:30 [[36mDEBUG[0m]   SKIP (exists): Consonant Code Flip Book.md
+2026-01-16 10:52:30 [[32mINFO[0m] 
+[2/1215] Individual Code Chart.pdf
+2026-01-16 10:52:30 [[36mDEBUG[0m]   SKIP (exists): Individual Code Chart.md
+2026-01-16 10:52:30 [[32mINFO[0m] 
+[3/1215] Large Letter Cards.pdf
+2026-01-16 10:52:30 [[36mDEBUG[0m]   SKIP (exists): Large Letter Cards.md
+2026-01-16 10:52:30 [[32mINFO[0m] 
+[4/1215] Spelling Cards.pdf
+2026-01-16 10:52:30 [[32mINFO[0m]   Converting: Spelling Cards.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]     OK: 150 pages -> Spelling Cards.md
+2026-01-16 10:52:31 [[32mINFO[0m] 
+[5/1215] Vowel Code Flip Book.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]   Converting: Vowel Code Flip Book.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]     OK: 42 pages -> Vowel Code Flip Book.md
+2026-01-16 10:52:31 [[32mINFO[0m] 
+[6/1215] Carta de apoyo para las familias, en español.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]   Converting: Carta de apoyo para las familias, en español.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]     OK: 1 pages -> Carta de apoyo para las familias, en español.md
+2026-01-16 10:52:31 [[32mINFO[0m] 
+[7/1215] Family Welcome Letter - English.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]   Converting: Family Welcome Letter - English.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]     OK: 1 pages -> Family Welcome Letter - English.md
+2026-01-16 10:52:31 [[32mINFO[0m] 
+[8/1215] Independent Reading Guide.pdf
+2026-01-16 10:52:31 [[32mINFO[0m]   Converting: Independent Reading Guide.pdf
+2026-01-16 10:53:25 [[32mINFO[0m]     OK: 54 pages -> Independent Reading Guide.md
+2026-01-16 10:53:25 [[32mINFO[0m] 
+[9/1215] K-5 RLA Component Navigation Guide.pdf
+2026-01-16 10:53:25 [[32mINFO[0m]   Converting: K-5 RLA Component Navigation Guide.pdf
+2026-01-16 10:53:33 [[32mINFO[0m]     OK: 16 pages -> K-5 RLA Component Navigation Guide.md
+2026-01-16 10:53:33 [[32mINFO[0m] 
+[10/1215] Observation Tool.pdf
+2026-01-16 10:53:33 [[32mINFO[0m]   Converting: Observation Tool.pdf
+2026-01-16 10:53:37 [[32mINFO[0m]     OK: 1 pages -> Observation Tool.md
+2026-01-16 10:53:37 [[32mINFO[0m] Progress: 10/1215 (0.8%) | Pages: 265 | Elapsed: 1m 7s
+2026-01-16 10:53:37 [[32mINFO[0m] 
+[11/1215] Program and Implementation Guide .pdf
+2026-01-16 10:53:37 [[32mINFO[0m]   Converting: Program and Implementation Guide .pdf
+2026-01-16 10:53:56 [[32mINFO[0m]     OK: 83 pages -> Program and Implementation Guide .md
+2026-01-16 10:53:56 [[32mINFO[0m] 
+[12/1215] FS 1 - Activity Book.pdf
+2026-01-16 10:53:56 [[32mINFO[0m]   Converting: FS 1 - Activity Book.pdf
+2026-01-16 10:54:14 [[32mINFO[0m]     OK: 208 pages -> FS 1 - Activity Book.md
+2026-01-16 10:54:14 [[32mINFO[0m] 
+[13/1215] FS 1 - Big Book.pdf
+2026-01-16 10:54:14 [[32mINFO[0m]   Converting: FS 1 - Big Book.pdf
+2026-01-16 10:56:01 [[32mINFO[0m]     OK: 47 pages -> FS 1 - Big Book.md
+2026-01-16 10:56:01 [[32mINFO[0m] 
+[14/1215] FS 1 - Digital Components.pdf
+2026-01-16 10:56:01 [[32mINFO[0m]   Converting: FS 1 - Digital Components.pdf
+2026-01-16 10:56:02 [[32mINFO[0m]     OK: 16 pages -> FS 1 - Digital Components.md
+2026-01-16 10:56:02 [[32mINFO[0m] 
+[15/1215] FS 1 - English Family Support Letter.pdf
+2026-01-16 10:56:02 [[32mINFO[0m]   Converting: FS 1 - English Family Support Letter.pdf
+2026-01-16 10:56:03 [[32mINFO[0m]     OK: 2 pages -> FS 1 - English Family Support Letter.md
+2026-01-16 10:56:03 [[32mINFO[0m] 
+[16/1215] FS 1 - Reader.pdf
+2026-01-16 10:56:03 [[32mINFO[0m]   Converting: FS 1 - Reader.pdf
+2026-01-16 10:56:52 [[32mINFO[0m]     OK: 47 pages -> FS 1 - Reader.md
+2026-01-16 10:56:52 [[32mINFO[0m] 
+[17/1215] FS 1 - Teacher Guide.pdf
+2026-01-16 10:56:52 [[32mINFO[0m]   Converting: FS 1 - Teacher Guide.pdf
+2026-01-16 10:58:34 [[32mINFO[0m]     OK: 330 pages -> FS 1 - Teacher Guide.md
+2026-01-16 10:58:34 [[32mINFO[0m] 
+[18/1215] FS 2 - Activity Book.pdf
+2026-01-16 10:58:34 [[32mINFO[0m]   Converting: FS 2 - Activity Book.pdf
+2026-01-16 10:58:59 [[32mINFO[0m]     OK: 168 pages -> FS 2 - Activity Book.md
+2026-01-16 10:58:59 [[32mINFO[0m] 
+[19/1215] FS 2 - Big Book.pdf
+2026-01-16 10:58:59 [[32mINFO[0m]   Converting: FS 2 - Big Book.pdf
+2026-01-16 10:59:15 [[32mINFO[0m]     OK: 114 pages -> FS 2 - Big Book.md
+2026-01-16 10:59:15 [[32mINFO[0m] 
+[20/1215] FS 2 - Digital Components_ Visuals.pdf
+2026-01-16 10:59:15 [[32mINFO[0m]   Converting: FS 2 - Digital Components_ Visuals.pdf
+2026-01-16 10:59:17 [[32mINFO[0m]     OK: 18 pages -> FS 2 - Digital Components_ Visuals.md
+2026-01-16 10:59:17 [[32mINFO[0m] Progress: 20/1215 (1.6%) | Pages: 1298 | Elapsed: 7m 47s
+2026-01-16 10:59:17 [[32mINFO[0m] 
+[21/1215] FS 2 - English Family Support Letter.pdf
+2026-01-16 10:59:17 [[32mINFO[0m]   Converting: FS 2 - English Family Support Letter.pdf
+2026-01-16 10:59:17 [[32mINFO[0m]     OK: 2 pages -> FS 2 - English Family Support Letter.md
+2026-01-16 10:59:17 [[32mINFO[0m] 
+[22/1215] FS 2 - Reader.pdf
+2026-01-16 10:59:17 [[32mINFO[0m]   Converting: FS 2 - Reader.pdf
+2026-01-16 10:59:35 [[32mINFO[0m]     OK: 114 pages -> FS 2 - Reader.md
+2026-01-16 10:59:35 [[32mINFO[0m] 
+[23/1215] FS 2 - Teacher Guide.pdf
+2026-01-16 10:59:35 [[32mINFO[0m]   Converting: FS 2 - Teacher Guide.pdf
+2026-01-16 11:01:31 [[32mINFO[0m]     OK: 315 pages -> FS 2 - Teacher Guide.md
+2026-01-16 11:01:31 [[32mINFO[0m] 
+[24/1215] FS 3 - Activity Book.pdf
+2026-01-16 11:01:31 [[32mINFO[0m]   Converting: FS 3 - Activity Book.pdf
+2026-01-16 11:01:53 [[32mINFO[0m]     OK: 132 pages -> FS 3 - Activity Book.md
+2026-01-16 11:01:53 [[32mINFO[0m] 
+[25/1215] FS 3 - Big Book.pdf
+2026-01-16 11:01:53 [[32mINFO[0m]   Converting: FS 3 - Big Book.pdf
+2026-01-16 11:03:48 [[32mINFO[0m]     OK: 88 pages -> FS 3 - Big Book.md
+2026-01-16 11:03:48 [[32mINFO[0m] 
+[26/1215] FS 3 - Digital Components_ Visuals.pdf
+2026-01-16 11:03:48 [[32mINFO[0m]   Converting: FS 3 - Digital Components_ Visuals.pdf
+2026-01-16 11:03:51 [[32mINFO[0m]     OK: 24 pages -> FS 3 - Digital Components_ Visuals.md
+2026-01-16 11:03:51 [[32mINFO[0m] 
+[27/1215] FS 3 - English Family Support Letter.pdf
+2026-01-16 11:03:51 [[32mINFO[0m]   Converting: FS 3 - English Family Support Letter.pdf
+2026-01-16 11:03:51 [[32mINFO[0m]     OK: 2 pages -> FS 3 - English Family Support Letter.md
+2026-01-16 11:03:51 [[32mINFO[0m] 
+[28/1215] FS 3 - Reader.pdf
+2026-01-16 11:03:51 [[32mINFO[0m]   Converting: FS 3 - Reader.pdf
+2026-01-16 11:04:15 [[32mINFO[0m]     OK: 88 pages -> FS 3 - Reader.md
+2026-01-16 11:04:15 [[32mINFO[0m] 
+[29/1215] FS 3 - Teacher Guide.pdf
+2026-01-16 11:04:15 [[32mINFO[0m]   Converting: FS 3 - Teacher Guide.pdf
+2026-01-16 11:06:13 [[32mINFO[0m]     OK: 328 pages -> FS 3 - Teacher Guide.md
+2026-01-16 11:06:13 [[32mINFO[0m] 
+[30/1215] FS 4 - Activity Book.pdf
+2026-01-16 11:06:13 [[32mINFO[0m]   Converting: FS 4 - Activity Book.pdf
+2026-01-16 11:06:46 [[32mINFO[0m]     OK: 186 pages -> FS 4 - Activity Book.md
+2026-01-16 11:06:46 [[32mINFO[0m] Progress: 30/1215 (2.5%) | Pages: 2577 | Elapsed: 14m 16s
+2026-01-16 11:06:46 [[32mINFO[0m] 
+[31/1215] FS 4 - Digital Components_ Visuals.pdf
+2026-01-16 11:06:46 [[32mINFO[0m]   Converting: FS 4 - Digital Components_ Visuals.pdf
+2026-01-16 11:06:51 [[32mINFO[0m]     OK: 40 pages -> FS 4 - Digital Components_ Visuals.md
+2026-01-16 11:06:51 [[32mINFO[0m] 
+[32/1215] FS 4 - English Family Support Letter.pdf
+2026-01-16 11:06:51 [[32mINFO[0m]   Converting: FS 4 - English Family Support Letter.pdf
+2026-01-16 11:06:51 [[32mINFO[0m]     OK: 1 pages -> FS 4 - English Family Support Letter.md
+2026-01-16 11:06:51 [[32mINFO[0m] 
+[33/1215] FS 4 - Reader.pdf
+2026-01-16 11:06:51 [[32mINFO[0m]   Converting: FS 4 - Reader.pdf
+2026-01-16 11:08:53 [[32mINFO[0m] 
+2026-01-16 11:08:53 [[32mINFO[0m] ============================================================
+2026-01-16 11:08:53 [[32mINFO[0m] PDF TO MARKDOWN CONVERTER (PARALLEL)
+2026-01-16 11:08:53 [[32mINFO[0m] ============================================================
+2026-01-16 11:08:53 [[32mINFO[0m] Input:   C:\Users\brian.edwards\elementary\sources\bluebonnet
+2026-01-16 11:08:53 [[32mINFO[0m] Output:  C:\Users\brian.edwards\elementary\docs\curriculum
+2026-01-16 11:08:53 [[32mINFO[0m] Workers: 4
+2026-01-16 11:08:53 [[32mINFO[0m] Force:   False
+2026-01-16 11:08:53 [[32mINFO[0m] ============================================================
+2026-01-16 11:08:53 [[32mINFO[0m] Scanning for PDF files...
+2026-01-16 11:08:53 [[32mINFO[0m]   Found 1215 PDF files
+2026-01-16 11:08:54 [[32mINFO[0m] 
+Starting 4 parallel workers...
+2026-01-16 11:08:54 [[32mINFO[0m] 
+2026-01-16 11:08:54 [[36mDEBUG[0m] [1/1215] SKIP: Consonant Code Flip Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [2/1215] SKIP: Individual Code Chart.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [3/1215] SKIP: Large Letter Cards.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [4/1215] SKIP: Spelling Cards.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [5/1215] SKIP: Vowel Code Flip Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [6/1215] SKIP: Carta de apoyo para las familias, en español.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [7/1215] SKIP: Family Welcome Letter - English.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [8/1215] SKIP: Independent Reading Guide.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [9/1215] SKIP: K-5 RLA Component Navigation Guide.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [10/1215] SKIP: Observation Tool.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [11/1215] SKIP: Program and Implementation Guide .pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [12/1215] SKIP: FS 1 - Activity Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [13/1215] SKIP: FS 1 - Big Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [14/1215] SKIP: FS 1 - Digital Components.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [15/1215] SKIP: FS 1 - English Family Support Letter.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [16/1215] SKIP: FS 1 - Reader.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [17/1215] SKIP: FS 1 - Teacher Guide.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [18/1215] SKIP: FS 2 - Activity Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [19/1215] SKIP: FS 2 - Big Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [20/1215] SKIP: FS 2 - Digital Components_ Visuals.pdf
+2026-01-16 11:08:54 [[32mINFO[0m] Progress: 20/1215 (1.6%) | Pages: 0 | Elapsed: 1s
+2026-01-16 11:08:54 [[36mDEBUG[0m] [21/1215] SKIP: FS 2 - English Family Support Letter.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [22/1215] SKIP: FS 2 - Reader.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [23/1215] SKIP: FS 2 - Teacher Guide.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [24/1215] SKIP: FS 3 - Activity Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [25/1215] SKIP: FS 3 - Big Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [26/1215] SKIP: FS 3 - Digital Components_ Visuals.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [27/1215] SKIP: FS 3 - English Family Support Letter.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [28/1215] SKIP: FS 3 - Reader.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [29/1215] SKIP: FS 3 - Teacher Guide.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [30/1215] SKIP: FS 4 - Activity Book.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [31/1215] SKIP: FS 4 - Digital Components_ Visuals.pdf
+2026-01-16 11:08:54 [[36mDEBUG[0m] [32/1215] SKIP: FS 4 - English Family Support Letter.pdf
+2026-01-16 11:09:00 [[32mINFO[0m] [33/1215] OK: FS 5 - Digital Components_ Visuals.pdf (38 pages)
+2026-01-16 11:09:01 [[32mINFO[0m] [34/1215] OK: FS 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:09:58 [[32mINFO[0m] [35/1215] OK: FS 4 - Reader.pdf (96 pages)
+2026-01-16 11:10:00 [[32mINFO[0m] [36/1215] OK: FS 5 - Activity Book.pdf (181 pages)
+2026-01-16 11:10:41 [[32mINFO[0m] [37/1215] OK: FS 6 - Activity Book.pdf (184 pages)
+2026-01-16 11:10:47 [[32mINFO[0m] [38/1215] OK: FS 6 - Digital Components_ Visuals.pdf (38 pages)
+2026-01-16 11:10:48 [[32mINFO[0m] [39/1215] OK: FS 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:11:16 [[32mINFO[0m] [40/1215] OK: FS 5 - Reader.pdf (97 pages)
+2026-01-16 11:11:16 [[32mINFO[0m] Progress: 40/1215 (3.3%) | Pages: 636 | Elapsed: 2m 23s
+2026-01-16 11:11:27 [[32mINFO[0m] [41/1215] OK: FS 6 - Reader.pdf (103 pages)
+2026-01-16 11:12:06 [[32mINFO[0m] [42/1215] OK: FS 7 - Activity Book.pdf (134 pages)
+2026-01-16 11:12:13 [[32mINFO[0m] [43/1215] OK: FS 7 - Digital Components_ Visuals.pdf (33 pages)
+2026-01-16 11:12:13 [[32mINFO[0m] [44/1215] OK: FS 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:14:29 [[32mINFO[0m] [45/1215] OK: FS 7 - Reader.pdf (96 pages)
+2026-01-16 11:14:55 [[32mINFO[0m] [46/1215] OK: FS 4 - Teacher Guide.pdf (432 pages)
+2026-01-16 11:14:56 [[32mINFO[0m] [47/1215] OK: Consonant Code Flip Book.pdf (56 pages)
+2026-01-16 11:14:58 [[32mINFO[0m] [48/1215] OK: Individual Code Chart.pdf (22 pages)
+2026-01-16 11:14:59 [[32mINFO[0m] [49/1215] OK: Large Letter Cards.pdf (117 pages)
+2026-01-16 11:15:18 [[32mINFO[0m] [50/1215] OK: Pacing, Scope and Sequence - Foundational Skills.pdf (9 pages)
+2026-01-16 11:15:19 [[32mINFO[0m] [51/1215] OK: Spelling Cards.pdf (150 pages)
+2026-01-16 11:15:21 [[32mINFO[0m] [52/1215] OK: Vowel Code Flip Book.pdf (42 pages)
+2026-01-16 11:15:21 [[32mINFO[0m] [53/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:15:21 [[32mINFO[0m] [54/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 11:15:24 [[32mINFO[0m] [55/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 11:15:25 [[32mINFO[0m] [56/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 11:15:31 [[32mINFO[0m] [57/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 11:15:32 [[32mINFO[0m] [58/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 11:15:39 [[32mINFO[0m] [59/1215] OK: FS 5 - Teacher Guide.pdf (390 pages)
+2026-01-16 11:15:56 [[32mINFO[0m] [60/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 11:15:56 [[32mINFO[0m] Progress: 60/1215 (4.9%) | Pages: 2249 | Elapsed: 7m 3s
+2026-01-16 11:16:06 [[32mINFO[0m] [61/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 11:16:46 [[32mINFO[0m] [62/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 11:17:14 [[32mINFO[0m] [63/1215] OK: FS 6 - Teacher Guide.pdf (423 pages)
+2026-01-16 11:17:33 [[32mINFO[0m] [64/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 11:17:34 [[32mINFO[0m] [65/1215] OK: FS 1 - Carta de apoyo para las familias, en españolpdf.pdf (2 pages)
+2026-01-16 11:17:36 [[32mINFO[0m] [66/1215] OK: FS 1 - Activity Book.pdf (208 pages)
+2026-01-16 11:17:37 [[32mINFO[0m] [67/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:17:37 [[32mINFO[0m] [68/1215] OK: FS 1 - Digital Components.pdf (16 pages)
+2026-01-16 11:18:07 [[32mINFO[0m] [69/1215] OK: FS 7 - Teacher Guide.pdf (301 pages)
+2026-01-16 11:18:56 [[32mINFO[0m] [70/1215] OK: FS 2 - Activity Book.pdf (168 pages)
+2026-01-16 11:19:04 [[32mINFO[0m] [71/1215] OK: FS 1 - Reader.pdf (47 pages)
+2026-01-16 11:19:05 [[32mINFO[0m] [72/1215] OK: FS 2 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 11:19:08 [[32mINFO[0m] [73/1215] OK: FS 2 - Digital Components_ Visuals.pdf (18 pages)
+2026-01-16 11:19:10 [[32mINFO[0m] [74/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:19:30 [[32mINFO[0m] [75/1215] OK: FS 2 - Big Book.pdf (114 pages)
+2026-01-16 11:19:48 [[32mINFO[0m] [76/1215] OK: FS 2 - Reader.pdf (114 pages)
+2026-01-16 11:20:01 [[32mINFO[0m] [77/1215] OK: FS 1 - Big Book.pdf (47 pages)
+2026-01-16 11:20:29 [[32mINFO[0m] [78/1215] OK: FS 3 - Activity Book.pdf (132 pages)
+2026-01-16 11:20:29 [[32mINFO[0m] [79/1215] OK: FS 3 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 11:20:35 [[32mINFO[0m] [80/1215] OK: FS 3 - Digital Components_ Visuals.pdf (24 pages)
+2026-01-16 11:20:35 [[32mINFO[0m] Progress: 80/1215 (6.6%) | Pages: 4009 | Elapsed: 12m 42s
+2026-01-16 11:20:36 [[32mINFO[0m] [81/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:20:58 [[32mINFO[0m] [82/1215] OK: FS 1 - Teacher Guide.pdf (330 pages)
+2026-01-16 11:21:18 [[32mINFO[0m] [83/1215] OK: FS 3 - Reader.pdf (88 pages)
+2026-01-16 11:22:22 [[32mINFO[0m] [84/1215] OK: FS 4 - Activity Book.pdf (186 pages)
+2026-01-16 11:22:23 [[32mINFO[0m] [85/1215] OK: FS 4 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:22:34 [[32mINFO[0m] [86/1215] OK: FS 4 - Digital Components_ Visuals.pdf (40 pages)
+2026-01-16 11:22:35 [[32mINFO[0m] [87/1215] OK: FS 4 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:22:54 [[32mINFO[0m] [88/1215] OK: FS 2 - Teacher Guide.pdf (315 pages)
+2026-01-16 11:23:18 [[32mINFO[0m] [89/1215] OK: FS 3 - Big Book.pdf (88 pages)
+2026-01-16 11:23:37 [[32mINFO[0m] [90/1215] OK: FS 4 - Reader.pdf (96 pages)
+2026-01-16 11:23:38 [[32mINFO[0m] [91/1215] OK: FS 5 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:23:43 [[32mINFO[0m] [92/1215] OK: FS 5 - Digital Components_ Visuals.pdf (38 pages)
+2026-01-16 11:23:43 [[32mINFO[0m] [93/1215] OK: FS 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:24:17 [[32mINFO[0m] [94/1215] OK: FS 5 - Activity Book.pdf (181 pages)
+2026-01-16 11:24:42 [[32mINFO[0m] [95/1215] OK: FS 3 - Teacher Guide.pdf (328 pages)
+2026-01-16 11:25:18 [[32mINFO[0m] [96/1215] OK: FS 6 - Activity Book.pdf (184 pages)
+2026-01-16 11:25:19 [[32mINFO[0m] [97/1215] OK: FS 6 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:25:25 [[32mINFO[0m] [98/1215] OK: FS 6 - Digital Components_ Visuals.pdf (38 pages)
+2026-01-16 11:25:26 [[32mINFO[0m] [99/1215] OK: FS 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:25:47 [[32mINFO[0m] [100/1215] OK: FS 5 - Reader.pdf (97 pages)
+2026-01-16 11:25:47 [[32mINFO[0m] Progress: 100/1215 (8.2%) | Pages: 6026 | Elapsed: 17m 53s
+2026-01-16 11:26:02 [[32mINFO[0m] [101/1215] OK: FS 6 - Reader.pdf (103 pages)
+2026-01-16 11:26:33 [[32mINFO[0m] [102/1215] OK: FS 7 - Activity Book.pdf (134 pages)
+2026-01-16 11:26:33 [[32mINFO[0m] [103/1215] OK: FS 7 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:26:39 [[32mINFO[0m] [104/1215] OK: FS 7 - Digital Components_ Visuals.pdf (33 pages)
+2026-01-16 11:26:40 [[32mINFO[0m] [105/1215] OK: FS 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:28:08 [[32mINFO[0m] [106/1215] OK: FS 4 - Teacher Guide.pdf (432 pages)
+2026-01-16 11:28:42 [[32mINFO[0m] [107/1215] OK: FS 7 - Reader.pdf (96 pages)
+2026-01-16 11:29:10 [[32mINFO[0m] [108/1215] OK: FS 5 - Teacher Guide.pdf (390 pages)
+2026-01-16 11:29:12 [[32mINFO[0m] [109/1215] OK: K-5 Math Grade 1 Manipulatives Kit.pdf (3 pages)
+2026-01-16 11:29:24 [[32mINFO[0m] [110/1215] OK: K-5 Math Component Navigation Guide.pdf (24 pages)
+2026-01-16 11:29:37 [[32mINFO[0m] [111/1215] OK: K-5 Math Family Guide.pdf (14 pages)
+2026-01-16 11:29:51 [[32mINFO[0m] [112/1215] OK: K-5 Math Grade 1 Course Guide.pdf (77 pages)
+2026-01-16 11:30:04 [[32mINFO[0m] [113/1215] OK: Pacing, Scope and Sequence - RLA.pdf (9 pages)
+2026-01-16 11:30:04 [[32mINFO[0m] [114/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:30:04 [[32mINFO[0m] [115/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 11:31:05 [[32mINFO[0m] [116/1215] OK: K-5 Math Program and Implementation Guide.pdf (80 pages)
+2026-01-16 11:31:09 [[32mINFO[0m] [117/1215] OK: FS 6 - Teacher Guide.pdf (423 pages)
+2026-01-16 11:31:09 [[32mINFO[0m] [118/1215] OK: K–5 RLA Trade Books.pdf (4 pages)
+2026-01-16 11:31:19 [[32mINFO[0m] [119/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 11:31:23 [[32mINFO[0m] [120/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 11:31:23 [[32mINFO[0m] Progress: 120/1215 (9.9%) | Pages: 7869 | Elapsed: 22m 29s
+2026-01-16 11:31:26 [[32mINFO[0m] [121/1215] OK: Unit 10 - Activity Book.pdf (28 pages)
+2026-01-16 11:31:28 [[32mINFO[0m] [122/1215] OK: Unit 10 - Digital Components_ Visuals.pdf (16 pages)
+2026-01-16 11:31:29 [[32mINFO[0m] [123/1215] OK: Unit 10 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:31:38 [[32mINFO[0m] [124/1215] OK: FS 7 - Teacher Guide.pdf (301 pages)
+2026-01-16 11:31:39 [[32mINFO[0m] [125/1215] OK: Unit 10 - Reader Information.pdf (1 pages)
+2026-01-16 11:31:59 [[32mINFO[0m] [126/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 11:32:00 [[32mINFO[0m] [127/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 11:32:03 [[32mINFO[0m] [128/1215] OK: Unit 1 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:32:04 [[32mINFO[0m] [129/1215] OK: Unit 1 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:32:07 [[32mINFO[0m] [130/1215] OK: Unit 1 - Activity Book.pdf (45 pages)
+2026-01-16 11:32:08 [[32mINFO[0m] [131/1215] OK: Unit 10 - Image Cards.pdf (41 pages)
+2026-01-16 11:32:21 [[32mINFO[0m] [132/1215] OK: Unit 1 - Flip Book.pdf (54 pages)
+2026-01-16 11:32:26 [[32mINFO[0m] [133/1215] OK: Unit 2 - Activity Book.pdf (33 pages)
+2026-01-16 11:32:29 [[32mINFO[0m] [134/1215] OK: Unit 2 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:32:30 [[32mINFO[0m] [135/1215] OK: Unit 2 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:32:42 [[32mINFO[0m] [136/1215] OK: Unit 1 - Image Cards.pdf (31 pages)
+2026-01-16 11:32:54 [[32mINFO[0m] [137/1215] OK: Unit 2 - Flip Book.pdf (117 pages)
+2026-01-16 11:33:10 [[32mINFO[0m] [138/1215] OK: Unit 2 - Image Cards.pdf (43 pages)
+2026-01-16 11:33:15 [[32mINFO[0m] [139/1215] OK: Unit 3 - Activity Book.pdf (37 pages)
+2026-01-16 11:33:16 [[32mINFO[0m] [140/1215] OK: Unit 3 - Digital Components_ Visuals.pdf (14 pages)
+2026-01-16 11:33:16 [[32mINFO[0m] Progress: 140/1215 (11.5%) | Pages: 8793 | Elapsed: 24m 23s
+2026-01-16 11:33:17 [[32mINFO[0m] [141/1215] OK: Unit 3 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:33:41 [[32mINFO[0m] [142/1215] OK: Unit 3 - Flip Book.pdf (96 pages)
+2026-01-16 11:33:56 [[32mINFO[0m] [143/1215] OK: Unit 10 - Teacher Guide.pdf (184 pages)
+2026-01-16 11:34:20 [[32mINFO[0m] [144/1215] OK: Unit 3 - Image Cards.pdf (41 pages)
+2026-01-16 11:34:27 [[32mINFO[0m] [145/1215] OK: Unit 4 - Activity Book.pdf (45 pages)
+2026-01-16 11:34:28 [[32mINFO[0m] [146/1215] OK: Unit 4 - Digital Components_ Visuals.pdf (14 pages)
+2026-01-16 11:34:29 [[32mINFO[0m] [147/1215] OK: Unit 4 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:34:35 [[32mINFO[0m] [148/1215] OK: Unit 1 - Teacher Guide.pdf (154 pages)
+2026-01-16 11:34:49 [[32mINFO[0m] [149/1215] OK: Unit 4 - Image Cards.pdf (31 pages)
+2026-01-16 11:34:59 [[32mINFO[0m] [150/1215] OK: Unit 4 - Flip Book.pdf (108 pages)
+2026-01-16 11:35:01 [[32mINFO[0m] [151/1215] OK: Unit 5 - Activity Book.pdf (24 pages)
+2026-01-16 11:35:02 [[32mINFO[0m] [152/1215] OK: Unit 5 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:35:02 [[32mINFO[0m] [153/1215] OK: Unit 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:35:14 [[32mINFO[0m] [154/1215] OK: Unit 2 - Teacher Guide.pdf (169 pages)
+2026-01-16 11:35:32 [[32mINFO[0m] [155/1215] OK: Unit 5 - Flip Book.pdf (107 pages)
+2026-01-16 11:35:53 [[32mINFO[0m] [156/1215] OK: Unit 5 - Image Cards.pdf (34 pages)
+2026-01-16 11:35:57 [[32mINFO[0m] [157/1215] OK: Unit 6 - Activity Book.pdf (19 pages)
+2026-01-16 11:36:00 [[32mINFO[0m] [158/1215] OK: Unit 6 - Digital Components_ Visuals.pdf (26 pages)
+2026-01-16 11:36:01 [[32mINFO[0m] [159/1215] OK: Unit 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:36:34 [[32mINFO[0m] [160/1215] OK: Unit 3 - Teacher Guide.pdf (192 pages)
+2026-01-16 11:36:34 [[32mINFO[0m] Progress: 160/1215 (13.2%) | Pages: 10052 | Elapsed: 28m 40s
+2026-01-16 11:36:41 [[32mINFO[0m] [161/1215] OK: Unit 6 - Flip Book.pdf (149 pages)
+2026-01-16 11:37:35 [[32mINFO[0m] [162/1215] OK: Unit 4 - Teacher Guide.pdf (184 pages)
+2026-01-16 11:37:40 [[32mINFO[0m] [163/1215] OK: Unit 7 - Activity Book.pdf (45 pages)
+2026-01-16 11:37:43 [[32mINFO[0m] [164/1215] OK: Unit 7 - Digital Components_ Visuals.pdf (21 pages)
+2026-01-16 11:37:43 [[32mINFO[0m] [165/1215] OK: Unit 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:37:48 [[32mINFO[0m] [166/1215] OK: Unit 6 - Image Cards.pdf (57 pages)
+2026-01-16 11:37:50 [[32mINFO[0m] [167/1215] OK: Unit 5 - Teacher Guide.pdf (167 pages)
+2026-01-16 11:38:02 [[32mINFO[0m] [168/1215] OK: Unit 7 - Image Cards.pdf (41 pages)
+2026-01-16 11:38:06 [[32mINFO[0m] [169/1215] OK: Unit 8 - Activity Book.pdf (31 pages)
+2026-01-16 11:38:07 [[32mINFO[0m] [170/1215] OK: Unit 8 - Digital Components_ Visuals.pdf (10 pages)
+2026-01-16 11:38:08 [[32mINFO[0m] [171/1215] OK: Unit 8 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:38:19 [[32mINFO[0m] [172/1215] OK: Unit 7 - Flip Book.pdf (108 pages)
+2026-01-16 11:38:33 [[32mINFO[0m] [173/1215] OK: Unit 8 - Flip Book.pdf (113 pages)
+2026-01-16 11:39:03 [[32mINFO[0m] [174/1215] OK: Unit 8 - Image Cards.pdf (37 pages)
+2026-01-16 11:39:05 [[32mINFO[0m] [175/1215] OK: Unit 6 - Teacher Guide.pdf (179 pages)
+2026-01-16 11:39:06 [[32mINFO[0m] [176/1215] OK: Unit 9 - Digital Components_ Visuals.pdf (8 pages)
+2026-01-16 11:39:07 [[32mINFO[0m] [177/1215] OK: Unit 9 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:39:07 [[32mINFO[0m] [178/1215] OK: Unit 9 - Activity Book.pdf (29 pages)
+2026-01-16 11:39:37 [[32mINFO[0m] [179/1215] OK: Unit 9 - Flip Book.pdf (114 pages)
+2026-01-16 11:39:55 [[32mINFO[0m] [180/1215] OK: Unit 9 - Image Cards.pdf (49 pages)
+2026-01-16 11:39:55 [[32mINFO[0m] Progress: 180/1215 (14.8%) | Pages: 11397 | Elapsed: 31m 1s
+2026-01-16 11:40:07 [[32mINFO[0m] [181/1215] OK: Pacing, Scope and Sequence - RLA.pdf (9 pages)
+2026-01-16 11:40:08 [[32mINFO[0m] [182/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:40:08 [[32mINFO[0m] [183/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 11:40:11 [[32mINFO[0m] [184/1215] OK: GK-2 RLA Lesson Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 11:40:12 [[32mINFO[0m] [185/1215] OK: GK-2 RLA Lesson Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 11:40:16 [[32mINFO[0m] [186/1215] OK: GK-2 RLA Unit Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 11:40:17 [[32mINFO[0m] [187/1215] OK: GK-2 RLA Unit Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 11:40:59 [[32mINFO[0m] [188/1215] OK: Unit 7 - Teacher Guide.pdf (229 pages)
+2026-01-16 11:41:17 [[32mINFO[0m] [189/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 11:41:17 [[32mINFO[0m] [190/1215] OK: K–5 RLA Trade Books.pdf (4 pages)
+2026-01-16 11:41:26 [[32mINFO[0m] [191/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 11:42:06 [[32mINFO[0m] [192/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 11:42:08 [[32mINFO[0m] [193/1215] OK: Unit 8 - Teacher Guide.pdf (256 pages)
+2026-01-16 11:42:10 [[32mINFO[0m] [194/1215] OK: Unit 10 - Activity Book.pdf (28 pages)
+2026-01-16 11:42:11 [[32mINFO[0m] [195/1215] OK: Unit 1 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:42:12 [[32mINFO[0m] [196/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 11:42:13 [[32mINFO[0m] [197/1215] OK: Unit 1 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:42:14 [[32mINFO[0m] [198/1215] OK: Unit 1 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:42:17 [[32mINFO[0m] [199/1215] OK: Unit 1 - Activity Book.pdf (45 pages)
+2026-01-16 11:42:18 [[32mINFO[0m] [200/1215] OK: Unit 9 - Teacher Guide.pdf (191 pages)
+2026-01-16 11:42:18 [[32mINFO[0m] Progress: 200/1215 (16.5%) | Pages: 12338 | Elapsed: 33m 25s
+2026-01-16 11:42:23 [[32mINFO[0m] [201/1215] OK: Unit 2 - Activity Book.pdf (33 pages)
+2026-01-16 11:42:23 [[32mINFO[0m] [202/1215] OK: Unit 2 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:42:26 [[32mINFO[0m] [203/1215] OK: Unit 2 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:42:27 [[32mINFO[0m] [204/1215] OK: Unit 2 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:42:30 [[32mINFO[0m] [205/1215] OK: Unit 1 - Flip Book.pdf (54 pages)
+2026-01-16 11:42:48 [[32mINFO[0m] [206/1215] OK: Unit 1 - Image Cards.pdf (31 pages)
+2026-01-16 11:42:51 [[32mINFO[0m] [207/1215] OK: Unit 2 - Flip Book.pdf (117 pages)
+2026-01-16 11:42:56 [[32mINFO[0m] [208/1215] OK: Unit 3 - Activity Book.pdf (37 pages)
+2026-01-16 11:42:57 [[32mINFO[0m] [209/1215] OK: Unit 3 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:42:58 [[32mINFO[0m] [210/1215] OK: Unit 2 - Image Cards.pdf (43 pages)
+2026-01-16 11:42:58 [[32mINFO[0m] [211/1215] OK: Unit 3 - Digital Components_ Visuals.pdf (14 pages)
+2026-01-16 11:42:59 [[32mINFO[0m] [212/1215] OK: Unit 3 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:43:22 [[32mINFO[0m] [213/1215] OK: Unit 3 - Flip Book.pdf (96 pages)
+2026-01-16 11:43:37 [[32mINFO[0m] [214/1215] OK: Unit 3 - Image Cards.pdf (41 pages)
+2026-01-16 11:43:43 [[32mINFO[0m] [215/1215] OK: Unit 4 - Activity Book.pdf (45 pages)
+2026-01-16 11:43:44 [[32mINFO[0m] [216/1215] OK: Unit 4 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:43:45 [[32mINFO[0m] [217/1215] OK: Unit 4 - Digital Components_ Visuals.pdf (14 pages)
+2026-01-16 11:43:46 [[32mINFO[0m] [218/1215] OK: Unit 4 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:44:17 [[32mINFO[0m] [219/1215] OK: Unit 4 - Flip Book.pdf (108 pages)
+2026-01-16 11:44:33 [[32mINFO[0m] [220/1215] OK: Unit 4 - Image Cards.pdf (31 pages)
+2026-01-16 11:44:33 [[32mINFO[0m] Progress: 220/1215 (18.1%) | Pages: 13019 | Elapsed: 36m 39s
+2026-01-16 11:44:45 [[32mINFO[0m] [221/1215] OK: Unit 1 - Teacher Guide.pdf (154 pages)
+2026-01-16 11:44:47 [[32mINFO[0m] [222/1215] OK: Unit 5 - Activity Book.pdf (24 pages)
+2026-01-16 11:44:48 [[32mINFO[0m] [223/1215] OK: Unit 5 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:44:48 [[32mINFO[0m] [224/1215] OK: Unit 5 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 11:44:49 [[32mINFO[0m] [225/1215] OK: Unit 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:45:12 [[32mINFO[0m] [226/1215] OK: Unit 2 - Teacher Guide.pdf (169 pages)
+2026-01-16 11:45:18 [[32mINFO[0m] [227/1215] OK: Unit 5 - Flip Book.pdf (107 pages)
+2026-01-16 11:45:54 [[32mINFO[0m] [228/1215] OK: Unit 5 - Image Cards.pdf (34 pages)
+2026-01-16 11:45:58 [[32mINFO[0m] [229/1215] OK: Unit 6 - Activity Book.pdf (19 pages)
+2026-01-16 11:45:59 [[32mINFO[0m] [230/1215] OK: Unit 6 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:46:03 [[32mINFO[0m] [231/1215] OK: Unit 6 - Digital Components_ Visuals.pdf (26 pages)
+2026-01-16 11:46:05 [[32mINFO[0m] [232/1215] OK: Unit 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:46:10 [[32mINFO[0m] [233/1215] OK: Unit 3 - Teacher Guide.pdf (192 pages)
+2026-01-16 11:46:43 [[32mINFO[0m] [234/1215] OK: Unit 6 - Flip Book.pdf (149 pages)
+2026-01-16 11:47:23 [[32mINFO[0m] [235/1215] OK: Unit 6 - Image Cards.pdf (57 pages)
+2026-01-16 11:47:23 [[32mINFO[0m] [236/1215] OK: Unit 4 - Teacher Guide.pdf (184 pages)
+2026-01-16 11:47:24 [[32mINFO[0m] [237/1215] OK: Unit 7 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 11:47:26 [[32mINFO[0m] [238/1215] OK: Unit 7 - Digital Components_ Visuals.pdf (21 pages)
+2026-01-16 11:47:27 [[32mINFO[0m] [239/1215] OK: Unit 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:47:28 [[32mINFO[0m] [240/1215] OK: Unit 7 - Activity Book.pdf (45 pages)
+2026-01-16 11:47:28 [[32mINFO[0m] Progress: 240/1215 (19.8%) | Pages: 14218 | Elapsed: 39m 34s
+2026-01-16 11:47:39 [[32mINFO[0m] [241/1215] OK: Unit 5 - Teacher Guide.pdf (167 pages)
+2026-01-16 11:47:42 [[32mINFO[0m] [242/1215] OK: Unit 7 - Image Cards.pdf (41 pages)
+2026-01-16 11:47:46 [[32mINFO[0m] [243/1215] OK: Unit 8 - Activity Book.pdf (31 pages)
+2026-01-16 11:47:47 [[32mINFO[0m] [244/1215] OK: Unit 8 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:47:48 [[32mINFO[0m] [245/1215] OK: Unit 8 - Digital Components_ Visuals.pdf (10 pages)
+2026-01-16 11:47:48 [[32mINFO[0m] [246/1215] OK: Unit 8 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:48:02 [[32mINFO[0m] [247/1215] OK: Unit 7 - Flip Book.pdf (108 pages)
+2026-01-16 11:48:13 [[32mINFO[0m] [248/1215] OK: Unit 8 - Flip Book.pdf (113 pages)
+2026-01-16 11:48:40 [[32mINFO[0m] [249/1215] OK: Unit 8 - Image Cards.pdf (37 pages)
+2026-01-16 11:48:44 [[32mINFO[0m] [250/1215] OK: Unit 9 - Activity Book.pdf (29 pages)
+2026-01-16 11:48:44 [[32mINFO[0m] [251/1215] OK: Unit 9 - Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 11:48:45 [[32mINFO[0m] [252/1215] OK: Unit 9 - Digital Components_ Visuals.pdf (8 pages)
+2026-01-16 11:48:46 [[32mINFO[0m] [253/1215] OK: Unit 9 - English Family Support Letter.pdf (1 pages)
+2026-01-16 11:49:02 [[32mINFO[0m] [254/1215] OK: Unit 6 - Teacher Guide.pdf (179 pages)
+2026-01-16 11:49:15 [[32mINFO[0m] [255/1215] OK: Unit 9 - Flip Book.pdf (114 pages)
+2026-01-16 11:49:49 [[32mINFO[0m] [256/1215] OK: Unit 9 - Image Cards.pdf (49 pages)
+2026-01-16 11:49:51 [[32mINFO[0m] [257/1215] OK: Consonant Code Flip Book.pdf (56 pages)
+2026-01-16 11:49:55 [[32mINFO[0m] [258/1215] OK: Fluency Supplement Teacher Guide.pdf (37 pages)
+2026-01-16 11:50:01 [[32mINFO[0m] [259/1215] OK: Individual Code Chart.pdf (14 pages)
+2026-01-16 11:50:04 [[32mINFO[0m] [260/1215] OK: Spelling Cards.pdf (296 pages)
+2026-01-16 11:50:04 [[32mINFO[0m] Progress: 260/1215 (21.4%) | Pages: 15511 | Elapsed: 41m 10s
+2026-01-16 11:50:06 [[32mINFO[0m] [261/1215] OK: Vowel Code Flip Book.pdf (46 pages)
+2026-01-16 11:50:06 [[32mINFO[0m] [262/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 11:50:06 [[32mINFO[0m] [263/1215] OK: Family Welcome Letter - Spanish.pdf (1 pages)
+2026-01-16 11:50:38 [[32mINFO[0m] [264/1215] OK: Unit 7 - Teacher Guide.pdf (229 pages)
+2026-01-16 11:50:57 [[32mINFO[0m] [265/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 11:51:06 [[32mINFO[0m] [266/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 11:51:38 [[32mINFO[0m] [267/1215] OK: Unit 8 - Teacher Guide.pdf (256 pages)
+2026-01-16 11:51:45 [[32mINFO[0m] [268/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 11:51:57 [[32mINFO[0m] [269/1215] OK: Unit 9 - Teacher Guide.pdf (191 pages)
+2026-01-16 11:51:58 [[32mINFO[0m] [270/1215] OK: FS 1 - Digital Components_ Visuals.pdf (31 pages)
+2026-01-16 11:51:58 [[32mINFO[0m] [271/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:52:01 [[32mINFO[0m] [272/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 11:52:13 [[32mINFO[0m] [273/1215] OK: FS 1 - Activity Book.pdf (174 pages)
+2026-01-16 11:52:18 [[32mINFO[0m] [274/1215] OK: FS 2 - Digital Components_ Visuals.pdf (30 pages)
+2026-01-16 11:52:19 [[32mINFO[0m] [275/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:52:41 [[32mINFO[0m] [276/1215] OK: FS 2 - Activity Book.pdf (205 pages)
+2026-01-16 11:53:12 [[32mINFO[0m] [277/1215] OK: FS 1 - Reader.pdf (60 pages)
+2026-01-16 11:53:58 [[32mINFO[0m] [278/1215] OK: FS 3 - Activity Book.pdf (291 pages)
+2026-01-16 11:54:08 [[32mINFO[0m] [279/1215] OK: FS 3 - Digital Components_ Visuals.pdf (53 pages)
+2026-01-16 11:54:08 [[32mINFO[0m] [280/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:54:08 [[32mINFO[0m] Progress: 280/1215 (23.0%) | Pages: 17239 | Elapsed: 45m 15s
+2026-01-16 11:54:40 [[32mINFO[0m] [281/1215] OK: FS 2 - Reader.pdf (112 pages)
+2026-01-16 11:54:45 [[32mINFO[0m] [282/1215] OK: FS 3 - Reader.pdf (118 pages)
+2026-01-16 11:55:49 [[32mINFO[0m] [283/1215] OK: FS 4 Activity Book.pdf (289 pages)
+2026-01-16 11:55:50 [[32mINFO[0m] [284/1215] OK: FS 4 Carta de apoyo para las familias.pdf (1 pages)
+2026-01-16 11:56:01 [[32mINFO[0m] [285/1215] OK: FS 4 Digital Components_ Visuals.pdf (54 pages)
+2026-01-16 11:56:02 [[32mINFO[0m] [286/1215] OK: FS 4 Family Support Letter.pdf (1 pages)
+2026-01-16 11:56:24 [[32mINFO[0m] [287/1215] OK: FS 1 - Teacher Guide.pdf (419 pages)
+2026-01-16 11:56:38 [[32mINFO[0m] [288/1215] OK: FS 2 - Teacher Guide.pdf (360 pages)
+2026-01-16 11:57:43 [[32mINFO[0m] [289/1215] OK: FS 5 - Activity Book.pdf (282 pages)
+2026-01-16 11:57:51 [[32mINFO[0m] [290/1215] OK: FS 5 - Digital Components_ Visuals.pdf (46 pages)
+2026-01-16 11:57:52 [[32mINFO[0m] [291/1215] OK: FS 5 - English Family Support Letter.pdf (2 pages)
+2026-01-16 11:58:16 [[32mINFO[0m] [292/1215] OK: FS 4 Reader.pdf (134 pages)
+2026-01-16 12:00:07 [[32mINFO[0m] [293/1215] OK: FS 3 - Teacher Guide.pdf (479 pages)
+2026-01-16 12:00:40 [[32mINFO[0m] [294/1215] OK: FS 5 - Reader.pdf (158 pages)
+2026-01-16 12:00:48 [[32mINFO[0m] [295/1215] OK: FS 6 - Digital Components_ Visuals.pdf (28 pages)
+2026-01-16 12:00:49 [[32mINFO[0m] [296/1215] OK: FS 6 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:01:11 [[32mINFO[0m] [297/1215] OK: FS 4 Teacher Guide.pdf (396 pages)
+2026-01-16 12:01:31 [[32mINFO[0m] [298/1215] OK: FS 6 - Activity Book.pdf (271 pages)
+2026-01-16 12:02:03 [[32mINFO[0m] [299/1215] OK: FS 6 - Reader.pdf (134 pages)
+2026-01-16 12:02:05 [[32mINFO[0m] [300/1215] OK: Consonant Code Flip Book.pdf (56 pages)
+2026-01-16 12:02:05 [[32mINFO[0m] Progress: 300/1215 (24.7%) | Pages: 20581 | Elapsed: 53m 12s
+2026-01-16 12:02:10 [[32mINFO[0m] [301/1215] OK: Fluency Supplement Teacher Guide.pdf (37 pages)
+2026-01-16 12:02:16 [[32mINFO[0m] [302/1215] OK: Individual Code Chart.pdf (14 pages)
+2026-01-16 12:02:23 [[32mINFO[0m] [303/1215] OK: FS 6 - Timeline Cards.pdf (43 pages)
+2026-01-16 12:02:26 [[32mINFO[0m] [304/1215] OK: Spelling Cards.pdf (296 pages)
+2026-01-16 12:02:28 [[32mINFO[0m] [305/1215] OK: Vowel Code Flip Book.pdf (46 pages)
+2026-01-16 12:02:28 [[32mINFO[0m] [306/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 12:02:28 [[32mINFO[0m] [307/1215] OK: Family Welcome Letter - Spanish.pdf (1 pages)
+2026-01-16 12:02:31 [[32mINFO[0m] [308/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 12:02:32 [[32mINFO[0m] [309/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 12:02:34 [[32mINFO[0m] [310/1215] OK: Pacing, Scope and Sequence - Foundational Skills.pdf (9 pages)
+2026-01-16 12:02:35 [[32mINFO[0m] [311/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 12:02:37 [[32mINFO[0m] [312/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 12:02:56 [[32mINFO[0m] [313/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 12:03:06 [[32mINFO[0m] [314/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 12:03:48 [[32mINFO[0m] [315/1215] OK: FS 5 - Teacher Guide.pdf (407 pages)
+2026-01-16 12:03:48 [[32mINFO[0m] [316/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 12:03:50 [[32mINFO[0m] [317/1215] OK: FS 1 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 12:04:04 [[32mINFO[0m] [318/1215] OK: FS 1 - Digital Components_ Visuals.pdf (31 pages)
+2026-01-16 12:04:05 [[32mINFO[0m] [319/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:04:25 [[32mINFO[0m] [320/1215] OK: FS 1 - Activity Book.pdf (174 pages)
+2026-01-16 12:04:25 [[32mINFO[0m] Progress: 320/1215 (26.3%) | Pages: 21754 | Elapsed: 56m 32s
+2026-01-16 12:04:37 [[32mINFO[0m] [321/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 12:05:21 [[32mINFO[0m] [322/1215] OK: FS 2 - Activity Book.pdf (205 pages)
+2026-01-16 12:05:22 [[32mINFO[0m] [323/1215] OK: FS 2 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 12:05:25 [[32mINFO[0m] [324/1215] OK: FS 1 - Reader.pdf (60 pages)
+2026-01-16 12:05:25 [[32mINFO[0m] [325/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:05:27 [[32mINFO[0m] [326/1215] OK: FS 2 - Digital Components_ Visuals.pdf (30 pages)
+2026-01-16 12:07:09 [[32mINFO[0m] [327/1215] OK: FS 6 - Teacher Guide.pdf (491 pages)
+2026-01-16 12:07:55 [[32mINFO[0m] [328/1215] OK: FS 2 - Reader.pdf (112 pages)
+2026-01-16 12:07:56 [[32mINFO[0m] [329/1215] OK: FS 3 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 12:07:59 [[32mINFO[0m] [330/1215] OK: FS 3 - Activity Book.pdf (291 pages)
+2026-01-16 12:08:00 [[32mINFO[0m] [331/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:08:07 [[32mINFO[0m] [332/1215] OK: FS 3 - Digital Components_ Visuals.pdf (53 pages)
+2026-01-16 12:08:36 [[32mINFO[0m] [333/1215] OK: FS 3 - Reader.pdf (118 pages)
+2026-01-16 12:09:09 [[32mINFO[0m] [334/1215] OK: FS 1 - Teacher Guide.pdf (419 pages)
+2026-01-16 12:09:10 [[32mINFO[0m] [335/1215] OK: FS 4 Carta de apoyo para las familias.pdf (1 pages)
+2026-01-16 12:09:25 [[32mINFO[0m] [336/1215] OK: FS 4 Digital Components_ Visuals.pdf (54 pages)
+2026-01-16 12:09:26 [[32mINFO[0m] [337/1215] OK: FS 4 Family Support Letter.pdf (1 pages)
+2026-01-16 12:09:43 [[32mINFO[0m] [338/1215] OK: FS 2 - Teacher Guide.pdf (360 pages)
+2026-01-16 12:09:46 [[32mINFO[0m] [339/1215] OK: FS 4 Activity Book.pdf (289 pages)
+2026-01-16 12:10:58 [[32mINFO[0m] [340/1215] OK: FS 5 - Activity Book.pdf (282 pages)
+2026-01-16 12:10:58 [[32mINFO[0m] Progress: 340/1215 (28.0%) | Pages: 24582 | Elapsed: 1h 2m
+2026-01-16 12:10:59 [[32mINFO[0m] [341/1215] OK: FS 5 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 12:11:09 [[32mINFO[0m] [342/1215] OK: FS 5 - Digital Components_ Visuals.pdf (46 pages)
+2026-01-16 12:11:09 [[32mINFO[0m] [343/1215] OK: FS 5 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:11:50 [[32mINFO[0m] [344/1215] OK: FS 4 Reader.pdf (134 pages)
+2026-01-16 12:14:12 [[32mINFO[0m] [345/1215] OK: FS 3 - Teacher Guide.pdf (479 pages)
+2026-01-16 12:14:14 [[32mINFO[0m] [346/1215] OK: FS 5 - Reader.pdf (158 pages)
+2026-01-16 12:14:15 [[32mINFO[0m] [347/1215] OK: FS 6 - Carta de apoyo para las familias, en español.pdf (2 pages)
+2026-01-16 12:14:24 [[32mINFO[0m] [348/1215] OK: FS 6 - Digital Components_ Visuals.pdf (28 pages)
+2026-01-16 12:14:26 [[32mINFO[0m] [349/1215] OK: FS 6 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:15:16 [[32mINFO[0m] [350/1215] OK: FS 4 Teacher Guide.pdf (396 pages)
+2026-01-16 12:15:53 [[32mINFO[0m] [351/1215] OK: FS 6 - Reader.pdf (134 pages)
+2026-01-16 12:15:54 [[32mINFO[0m] [352/1215] OK: FS 6 - Activity Book.pdf (271 pages)
+2026-01-16 12:38:59 [[32mINFO[0m] [353/1215] OK: FS 6 - Timeline Cards.pdf (43 pages)
+2026-01-16 12:39:03 [[32mINFO[0m] [354/1215] OK: K-5 Math Grade 2 Manipulatives Kit.pdf (3 pages)
+2026-01-16 12:39:15 [[32mINFO[0m] [355/1215] OK: K-5 Math Component Navigation Guide.pdf (24 pages)
+2026-01-16 12:39:20 [[32mINFO[0m] [356/1215] OK: K-5 Math Grade 2 Course Guide.pdf (92 pages)
+2026-01-16 12:39:31 [[32mINFO[0m] [357/1215] OK: K-5 Math Family Guide.pdf (14 pages)
+2026-01-16 12:39:44 [[32mINFO[0m] [358/1215] OK: Pacing, Scope and Sequence - RLA.pdf (9 pages)
+2026-01-16 12:39:44 [[32mINFO[0m] [359/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 12:39:44 [[32mINFO[0m] [360/1215] OK: Family Welcome Letter - Spanish.pdf (1 pages)
+2026-01-16 12:39:44 [[32mINFO[0m] Progress: 360/1215 (29.6%) | Pages: 26423 | Elapsed: 1h 30m
+2026-01-16 12:39:45 [[32mINFO[0m] [361/1215] OK: GK-5 RLA Trade Books.pdf (4 pages)
+2026-01-16 12:40:14 [[32mINFO[0m] [362/1215] OK: FS 5 - Teacher Guide.pdf (407 pages)
+2026-01-16 12:40:31 [[32mINFO[0m] [363/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 12:40:41 [[32mINFO[0m] [364/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 12:40:47 [[32mINFO[0m] [365/1215] OK: K-5 Math Program and Implementation Guide.pdf (80 pages)
+2026-01-16 12:40:53 [[32mINFO[0m] [366/1215] OK: Unit 10 - Activity Book.pdf (62 pages)
+2026-01-16 12:40:55 [[32mINFO[0m] [367/1215] OK: Unit 10 - Digital Components Visuals.pdf (12 pages)
+2026-01-16 12:40:57 [[32mINFO[0m] [368/1215] OK: Unit 10 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:41:23 [[32mINFO[0m] [369/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 12:41:34 [[32mINFO[0m] [370/1215] OK: Unit 10 - Flip Book.pdf (150 pages)
+2026-01-16 12:41:40 [[32mINFO[0m] [371/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 12:41:41 [[32mINFO[0m] [372/1215] OK: Unit 10 - Image Cards.pdf (28 pages)
+2026-01-16 12:41:43 [[32mINFO[0m] [373/1215] OK: Unit 11 - Activity Book.pdf (35 pages)
+2026-01-16 12:41:44 [[32mINFO[0m] [374/1215] OK: Unit 11 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:41:48 [[32mINFO[0m] [375/1215] OK: Unit 11 - Digital Components Visuals.pdf (39 pages)
+2026-01-16 12:41:50 [[32mINFO[0m] [376/1215] OK: Unit 11 - Image Cards.pdf (15 pages)
+2026-01-16 12:41:53 [[32mINFO[0m] [377/1215] OK: Unit 11 - Flip Book.pdf (51 pages)
+2026-01-16 12:41:57 [[32mINFO[0m] [378/1215] OK: Unit 1 - Activity Book.pdf (27 pages)
+2026-01-16 12:41:58 [[32mINFO[0m] [379/1215] OK: Unit 1 - Digital Components Visuals.pdf (10 pages)
+2026-01-16 12:41:59 [[32mINFO[0m] [380/1215] OK: Unit 1 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:41:59 [[32mINFO[0m] Progress: 380/1215 (31.3%) | Pages: 27500 | Elapsed: 1h 33m
+2026-01-16 12:42:23 [[32mINFO[0m] [381/1215] OK: Unit 1 - Flip Book.pdf (86 pages)
+2026-01-16 12:43:28 [[32mINFO[0m] [382/1215] OK: FS 6 - Teacher Guide.pdf (491 pages)
+2026-01-16 12:43:35 [[32mINFO[0m] [383/1215] OK: Unit 2 - Activity Book.pdf (43 pages)
+2026-01-16 12:43:38 [[32mINFO[0m] [384/1215] OK: Unit 2 - Digital Components Visuals.pdf (9 pages)
+2026-01-16 12:43:39 [[32mINFO[0m] [385/1215] OK: Unit 2 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:44:10 [[32mINFO[0m] [386/1215] OK: Unit 11 - Teacher Guide.pdf (193 pages)
+2026-01-16 12:44:15 [[32mINFO[0m] [387/1215] OK: Unit 2 - Flip Book.pdf (125 pages)
+2026-01-16 12:44:56 [[32mINFO[0m] [388/1215] OK: Unit 1- Teacher Guide.pdf (166 pages)
+2026-01-16 12:44:59 [[32mINFO[0m] [389/1215] OK: Unit 2 - Image Cards .pdf (39 pages)
+2026-01-16 12:45:02 [[32mINFO[0m] [390/1215] OK: Unit 3 - Digital Components Visuals.pdf (12 pages)
+2026-01-16 12:45:02 [[32mINFO[0m] [391/1215] OK: Unit 3 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:45:04 [[32mINFO[0m] [392/1215] OK: Unit 3 - Activity Book.pdf (44 pages)
+2026-01-16 12:45:18 [[32mINFO[0m] [393/1215] OK: Unit 10 - Teacher Guide.pdf (252 pages)
+2026-01-16 12:45:27 [[32mINFO[0m] [394/1215] OK: Unit 3 - Image Cards.pdf (23 pages)
+2026-01-16 12:45:32 [[32mINFO[0m] [395/1215] OK: Unit 4 - Activity Book.pdf (43 pages)
+2026-01-16 12:45:33 [[32mINFO[0m] [396/1215] OK: Unit 4 - Digital Components Visuals.pdf (9 pages)
+2026-01-16 12:45:34 [[32mINFO[0m] [397/1215] OK: Unit 4 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:45:34 [[32mINFO[0m] [398/1215] OK: Unit 3 - Flip Book.pdf (117 pages)
+2026-01-16 12:45:43 [[32mINFO[0m] [399/1215] OK: Unit 4 - Image Cards.pdf (35 pages)
+2026-01-16 12:45:55 [[32mINFO[0m] [400/1215] OK: Unit 4 - Flip Book.pdf (90 pages)
+2026-01-16 12:45:55 [[32mINFO[0m] Progress: 400/1215 (32.9%) | Pages: 29280 | Elapsed: 1h 37m
+2026-01-16 12:46:00 [[32mINFO[0m] [401/1215] OK: Unit 5 - Activity Book.pdf (31 pages)
+2026-01-16 12:46:06 [[32mINFO[0m] [402/1215] OK: Unit 5 - Digital Components Visuals.pdf (58 pages)
+2026-01-16 12:46:07 [[32mINFO[0m] [403/1215] OK: Unit 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:46:39 [[32mINFO[0m] [404/1215] OK: Unit 5 - Flip Book.pdf (106 pages)
+2026-01-16 12:46:55 [[32mINFO[0m] [405/1215] OK: Unit 5 - Image Cards.pdf (45 pages)
+2026-01-16 12:48:03 [[32mINFO[0m] [406/1215] OK: Unit 3 - Teacher Guide.pdf (174 pages)
+2026-01-16 12:48:03 [[32mINFO[0m] [407/1215] OK: Unit 2 - Teacher Guide.pdf (229 pages)
+2026-01-16 12:48:04 [[32mINFO[0m] [408/1215] OK: Unit 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:48:06 [[32mINFO[0m] [409/1215] OK: Unit 6 - Activity Book.pdf (20 pages)
+2026-01-16 12:48:20 [[32mINFO[0m] [410/1215] OK: Unit 4 - Teacher Guide.pdf (160 pages)
+2026-01-16 12:48:38 [[32mINFO[0m] [411/1215] OK: Unit 6 - Flip Book.pdf (137 pages)
+2026-01-16 12:48:45 [[32mINFO[0m] [412/1215] OK: Unit 6 - Image Cards.pdf (43 pages)
+2026-01-16 12:48:50 [[32mINFO[0m] [413/1215] OK: Unit 7 - Activity Book.pdf (58 pages)
+2026-01-16 12:48:50 [[32mINFO[0m] [414/1215] OK: Unit 7 - Digital Components Visuals.pdf (13 pages)
+2026-01-16 12:48:51 [[32mINFO[0m] [415/1215] OK: Unit 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:49:12 [[32mINFO[0m] [416/1215] OK: Unit 7 - Image Cards.pdf (32 pages)
+2026-01-16 12:49:14 [[32mINFO[0m] [417/1215] OK: Unit 7 - Flip Book.pdf (106 pages)
+2026-01-16 12:49:22 [[32mINFO[0m] [418/1215] OK: Unit 8 - Activity Book.pdf (47 pages)
+2026-01-16 12:49:24 [[32mINFO[0m] [419/1215] OK: Unit 8 - Digital Components Visuals.pdf (8 pages)
+2026-01-16 12:49:24 [[32mINFO[0m] [420/1215] OK: Unit 8 - English Family Support Letter.pdf (1 pages)
+2026-01-16 12:49:24 [[32mINFO[0m] Progress: 420/1215 (34.6%) | Pages: 30551 | Elapsed: 1h 40m
+2026-01-16 12:49:38 [[32mINFO[0m] [421/1215] OK: Unit 5- Teacher Guide.pdf (171 pages)
+2026-01-16 12:49:56 [[32mINFO[0m] [422/1215] OK: Unit 8 - Image Cards.pdf (30 pages)
+2026-01-16 12:49:56 [[32mINFO[0m] [423/1215] OK: Unit 8 - Flip Book.pdf (138 pages)
+2026-01-16 12:50:01 [[32mINFO[0m] [424/1215] OK: Unit 9 - Activity Book.pdf (51 pages)
+2026-01-16 12:50:02 [[32mINFO[0m] [425/1215] OK: Unit 9 - Digital Components Visuals.pdf (8 pages)
+2026-01-16 12:50:03 [[32mINFO[0m] [426/1215] OK: Unit 9 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:50:44 [[32mINFO[0m] [427/1215] OK: Unit 6 - Teacher Guide.pdf (157 pages)
+2026-01-16 12:50:55 [[32mINFO[0m] [428/1215] OK: Unit 9 - Flip Book.pdf (118 pages)
+2026-01-16 12:51:06 [[32mINFO[0m] [429/1215] OK: Unit 9 - Image Cards.pdf (23 pages)
+2026-01-16 12:51:22 [[32mINFO[0m] [430/1215] OK: Decodables Passages Supplement.pdf (49 pages)
+2026-01-16 12:51:25 [[32mINFO[0m] [431/1215] OK: Fluency Supplement - Foundational Skills.pdf (20 pages)
+2026-01-16 12:51:30 [[32mINFO[0m] [432/1215] OK: Spelling Cards - Foundational Skills.pdf (300 pages)
+2026-01-16 12:51:30 [[32mINFO[0m] [433/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 12:51:30 [[32mINFO[0m] [434/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 12:52:43 [[32mINFO[0m] [435/1215] OK: Unit 8 - Teacher Guide.pdf (164 pages)
+2026-01-16 12:53:00 [[32mINFO[0m] [436/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 12:53:09 [[32mINFO[0m] [437/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 12:53:12 [[32mINFO[0m] [438/1215] OK: Unit 7 - Teacher Guide.pdf (240 pages)
+2026-01-16 12:53:28 [[32mINFO[0m] [439/1215] OK: FS 1 - Activity Book.pdf (103 pages)
+2026-01-16 12:53:31 [[32mINFO[0m] [440/1215] OK: FS 1 - Digital Components_ Visuals.pdf (16 pages)
+2026-01-16 12:53:31 [[32mINFO[0m] Progress: 440/1215 (36.2%) | Pages: 32160 | Elapsed: 1h 44m
+2026-01-16 12:53:32 [[32mINFO[0m] [441/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:53:36 [[32mINFO[0m] [442/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 12:53:59 [[32mINFO[0m] [443/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 12:54:12 [[32mINFO[0m] [444/1215] OK: FS 10 - Activity Book.pdf (53 pages)
+2026-01-16 12:54:14 [[32mINFO[0m] [445/1215] OK: FS 10 - Carta de apoyo para las familias.pdf (2 pages)
+2026-01-16 12:54:16 [[32mINFO[0m] [446/1215] OK: FS 10 - Digital Components.pdf (11 pages)
+2026-01-16 12:54:17 [[32mINFO[0m] [447/1215] OK: FS 10 - Family Support Letter.pdf (2 pages)
+2026-01-16 12:54:32 [[32mINFO[0m] [448/1215] OK: FS 1 - Reader.pdf (71 pages)
+2026-01-16 12:54:34 [[32mINFO[0m] [449/1215] OK: FS 10 - Reader.pdf (76 pages)
+2026-01-16 12:54:35 [[32mINFO[0m] [450/1215] OK: Unit 9 - Teacher Guide.pdf (202 pages)
+2026-01-16 12:54:39 [[32mINFO[0m] [451/1215] OK: FS 2 - Digital Components_ Visuals.pdf (15 pages)
+2026-01-16 12:54:40 [[32mINFO[0m] [452/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:54:54 [[32mINFO[0m] [453/1215] OK: FS 2 - Activity Book.pdf (76 pages)
+2026-01-16 12:55:22 [[32mINFO[0m] [454/1215] OK: FS 2 - Reader.pdf (72 pages)
+2026-01-16 12:55:34 [[32mINFO[0m] [455/1215] OK: FS 3 - Activity Book.pdf (83 pages)
+2026-01-16 12:55:37 [[32mINFO[0m] [456/1215] OK: FS 3 - Digital Components_ Visuals.pdf (13 pages)
+2026-01-16 12:55:38 [[32mINFO[0m] [457/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:55:47 [[32mINFO[0m] [458/1215] OK: FS 3 - Reader.pdf (78 pages)
+2026-01-16 12:56:54 [[32mINFO[0m] [459/1215] OK: FS 1 - Teacher Guide.pdf (293 pages)
+2026-01-16 12:57:16 [[32mINFO[0m] [460/1215] OK: FS 4 - Activity Book.pdf (92 pages)
+2026-01-16 12:57:16 [[32mINFO[0m] Progress: 460/1215 (37.9%) | Pages: 33442 | Elapsed: 1h 48m
+2026-01-16 12:57:23 [[32mINFO[0m] [461/1215] OK: FS 4 - Digital Components_ Visuals.pdf (16 pages)
+2026-01-16 12:57:23 [[32mINFO[0m] [462/1215] OK: FS 4 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:57:26 [[32mINFO[0m] [463/1215] OK: FS 10 - Teacher Guide.pdf (246 pages)
+2026-01-16 12:57:56 [[32mINFO[0m] [464/1215] OK: FS 2 - Teacher Guide.pdf (255 pages)
+2026-01-16 12:57:58 [[32mINFO[0m] [465/1215] OK: FS 4 - Reader.pdf (73 pages)
+2026-01-16 12:58:03 [[32mINFO[0m] [466/1215] OK: FS 5 - Digital Components_ Visuals.pdf (13 pages)
+2026-01-16 12:58:04 [[32mINFO[0m] [467/1215] OK: FS 5 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:58:18 [[32mINFO[0m] [468/1215] OK: FS 5 - Activity Book.pdf (86 pages)
+2026-01-16 12:59:06 [[32mINFO[0m] [469/1215] OK: FS 5 - Reader.pdf (102 pages)
+2026-01-16 12:59:23 [[32mINFO[0m] [470/1215] OK: FS 6 - Activity Book.pdf (85 pages)
+2026-01-16 12:59:25 [[32mINFO[0m] [471/1215] OK: FS 6 - Digital Components_ Visuals.pdf (17 pages)
+2026-01-16 12:59:26 [[32mINFO[0m] [472/1215] OK: FS 6 - English Family Support Letter.pdf (2 pages)
+2026-01-16 12:59:36 [[32mINFO[0m] [473/1215] OK: FS 3 - Teacher Guide.pdf (339 pages)
+2026-01-16 12:59:38 [[32mINFO[0m] [474/1215] OK: FS 6 - Reader.pdf (72 pages)
+2026-01-16 12:59:46 [[32mINFO[0m] [475/1215] OK: FS 7 - Activity Book.pdf (53 pages)
+2026-01-16 12:59:48 [[32mINFO[0m] [476/1215] OK: FS 7 - Digital Components_ Visuals.pdf (12 pages)
+2026-01-16 12:59:49 [[32mINFO[0m] [477/1215] OK: FS 7 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:00:06 [[32mINFO[0m] [478/1215] OK: FS 7 - Reader.pdf (76 pages)
+2026-01-16 13:00:32 [[32mINFO[0m] [479/1215] OK: FS 4 - Teacher Guide.pdf (263 pages)
+2026-01-16 13:00:43 [[32mINFO[0m] [480/1215] OK: FS 8 - Activity Book.pdf (65 pages)
+2026-01-16 13:00:43 [[32mINFO[0m] Progress: 480/1215 (39.5%) | Pages: 35223 | Elapsed: 1h 51m
+2026-01-16 13:00:45 [[32mINFO[0m] [481/1215] OK: FS 8 - Digital Components_ Visuals.pdf (9 pages)
+2026-01-16 13:00:47 [[32mINFO[0m] [482/1215] OK: FS 8 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:01:05 [[32mINFO[0m] [483/1215] OK: FS 8 - Reader.pdf (71 pages)
+2026-01-16 13:01:25 [[32mINFO[0m] [484/1215] OK: FS 5 - Teacher Guide.pdf (305 pages)
+2026-01-16 13:01:40 [[32mINFO[0m] [485/1215] OK: FS 9 - Activity Book.pdf (66 pages)
+2026-01-16 13:01:46 [[32mINFO[0m] [486/1215] OK: FS 9 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 13:01:47 [[32mINFO[0m] [487/1215] OK: FS 9 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:02:12 [[32mINFO[0m] [488/1215] OK: FS 6 - Teacher Guide.pdf (261 pages)
+2026-01-16 13:02:37 [[32mINFO[0m] [489/1215] OK: FS 7 - Teacher Guide.pdf (260 pages)
+2026-01-16 13:02:38 [[32mINFO[0m] [490/1215] OK: FS 9 - Reader.pdf (68 pages)
+2026-01-16 13:02:41 [[32mINFO[0m] [491/1215] OK: Fluency Supplement - Foundational Skills.pdf (20 pages)
+2026-01-16 13:02:49 [[32mINFO[0m] [492/1215] OK: Decodables Passages Supplement.pdf (49 pages)
+2026-01-16 13:02:52 [[32mINFO[0m] [493/1215] OK: Spelling Cards - Foundational Skills.pdf (300 pages)
+2026-01-16 13:02:52 [[32mINFO[0m] [494/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 13:02:52 [[32mINFO[0m] [495/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 13:02:54 [[32mINFO[0m] [496/1215] OK: Pacing, Scope and Sequence - Foundational Skills.pdf (8 pages)
+2026-01-16 13:02:54 [[32mINFO[0m] [497/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 13:02:54 [[32mINFO[0m] [498/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 13:02:55 [[32mINFO[0m] [499/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Teacher.pdf (1 pages)
+2026-01-16 13:02:58 [[32mINFO[0m] [500/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Coach.pdf (4 pages)
+2026-01-16 13:02:58 [[32mINFO[0m] Progress: 500/1215 (41.2%) | Pages: 36667 | Elapsed: 1h 54m
+2026-01-16 13:03:17 [[32mINFO[0m] [501/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 13:03:26 [[32mINFO[0m] [502/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 13:03:44 [[32mINFO[0m] [503/1215] OK: FS 8 - Teacher Guide.pdf (227 pages)
+2026-01-16 13:03:58 [[32mINFO[0m] [504/1215] OK: FS 1 - Activity Book.pdf (103 pages)
+2026-01-16 13:03:58 [[32mINFO[0m] [505/1215] OK: FS 1 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:04:00 [[32mINFO[0m] [506/1215] OK: FS 1 - Digital Components_ Visuals.pdf (16 pages)
+2026-01-16 13:04:01 [[32mINFO[0m] [507/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:04:03 [[32mINFO[0m] [508/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 13:04:38 [[32mINFO[0m] [509/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 13:04:43 [[32mINFO[0m] [510/1215] OK: FS 1 - Reader.pdf (71 pages)
+2026-01-16 13:04:43 [[32mINFO[0m] [511/1215] OK: FS 9 - Teacher Guide.pdf (228 pages)
+2026-01-16 13:04:44 [[32mINFO[0m] [512/1215] OK: FS 10 - Digital Components.pdf (11 pages)
+2026-01-16 13:04:44 [[32mINFO[0m] [513/1215] OK: FS 10 - Carta de apoyo para las familias.pdf (2 pages)
+2026-01-16 13:04:44 [[32mINFO[0m] [514/1215] OK: FS 10 - Family Support Letter.pdf (2 pages)
+2026-01-16 13:04:46 [[32mINFO[0m] [515/1215] OK: FS 10 - Activity Book.pdf (53 pages)
+2026-01-16 13:04:55 [[32mINFO[0m] [516/1215] OK: FS 10 - Reader.pdf (76 pages)
+2026-01-16 13:04:56 [[32mINFO[0m] [517/1215] OK: FS 2 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:04:59 [[32mINFO[0m] [518/1215] OK: FS 2 - Digital Components_ Visuals.pdf (15 pages)
+2026-01-16 13:05:00 [[32mINFO[0m] [519/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:05:01 [[32mINFO[0m] [520/1215] OK: FS 2 - Activity Book.pdf (76 pages)
+2026-01-16 13:05:01 [[32mINFO[0m] Progress: 520/1215 (42.8%) | Pages: 37709 | Elapsed: 1h 56m
+2026-01-16 13:05:41 [[32mINFO[0m] [521/1215] OK: FS 2 - Reader.pdf (72 pages)
+2026-01-16 13:05:59 [[32mINFO[0m] [522/1215] OK: FS 3 - Activity Book.pdf (83 pages)
+2026-01-16 13:06:00 [[32mINFO[0m] [523/1215] OK: FS 3 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:06:02 [[32mINFO[0m] [524/1215] OK: FS 3 - Digital Components_ Visuals.pdf (13 pages)
+2026-01-16 13:06:04 [[32mINFO[0m] [525/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:06:14 [[32mINFO[0m] [526/1215] OK: FS 3 - Reader.pdf (78 pages)
+2026-01-16 13:06:54 [[32mINFO[0m] [527/1215] OK: FS 1 - Teacher Guide.pdf (293 pages)
+2026-01-16 13:07:15 [[32mINFO[0m] [528/1215] OK: FS 4 - Activity Book.pdf (92 pages)
+2026-01-16 13:07:17 [[32mINFO[0m] [529/1215] OK: FS 4 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:07:24 [[32mINFO[0m] [530/1215] OK: FS 4 - Digital Components_ Visuals.pdf (16 pages)
+2026-01-16 13:07:24 [[32mINFO[0m] [531/1215] OK: FS 4 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:07:40 [[32mINFO[0m] [532/1215] OK: FS 10 - Teacher Guide.pdf (246 pages)
+2026-01-16 13:08:03 [[32mINFO[0m] [533/1215] OK: FS 4 - Reader.pdf (73 pages)
+2026-01-16 13:08:09 [[32mINFO[0m] [534/1215] OK: FS 2 - Teacher Guide.pdf (255 pages)
+2026-01-16 13:08:10 [[32mINFO[0m] [535/1215] OK: FS 5 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:08:14 [[32mINFO[0m] [536/1215] OK: FS 5 - Digital Components_ Visuals.pdf (13 pages)
+2026-01-16 13:08:15 [[32mINFO[0m] [537/1215] OK: FS 5 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:08:23 [[32mINFO[0m] [538/1215] OK: FS 5 - Activity Book.pdf (86 pages)
+2026-01-16 13:09:14 [[32mINFO[0m] [539/1215] OK: FS 5 - Reader.pdf (102 pages)
+2026-01-16 13:09:31 [[32mINFO[0m] [540/1215] OK: FS 6 - Activity Book.pdf (85 pages)
+2026-01-16 13:09:31 [[32mINFO[0m] Progress: 540/1215 (44.4%) | Pages: 39228 | Elapsed: 2h 0m
+2026-01-16 13:09:32 [[32mINFO[0m] [541/1215] OK: FS 6 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:09:35 [[32mINFO[0m] [542/1215] OK: FS 6 - Digital Components_ Visuals.pdf (17 pages)
+2026-01-16 13:09:35 [[32mINFO[0m] [543/1215] OK: FS 6 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:09:49 [[32mINFO[0m] [544/1215] OK: FS 6 - Reader.pdf (72 pages)
+2026-01-16 13:10:08 [[32mINFO[0m] [545/1215] OK: FS 3 - Teacher Guide.pdf (339 pages)
+2026-01-16 13:10:17 [[32mINFO[0m] [546/1215] OK: FS 7 - Activity Book.pdf (53 pages)
+2026-01-16 13:10:19 [[32mINFO[0m] [547/1215] OK: FS 7 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:10:20 [[32mINFO[0m] [548/1215] OK: FS 7 - Digital Components_ Visuals.pdf (12 pages)
+2026-01-16 13:10:22 [[32mINFO[0m] [549/1215] OK: FS 7 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:10:39 [[32mINFO[0m] [550/1215] OK: FS 7 - Reader.pdf (76 pages)
+2026-01-16 13:10:50 [[32mINFO[0m] [551/1215] OK: FS 4 - Teacher Guide.pdf (263 pages)
+2026-01-16 13:11:02 [[32mINFO[0m] [552/1215] OK: FS 8 - Activity Book.pdf (65 pages)
+2026-01-16 13:11:03 [[32mINFO[0m] [553/1215] OK: FS 8 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:11:05 [[32mINFO[0m] [554/1215] OK: FS 8 - Digital Components_ Visuals.pdf (9 pages)
+2026-01-16 13:11:06 [[32mINFO[0m] [555/1215] OK: FS 8 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:11:27 [[32mINFO[0m] [556/1215] OK: FS 8 - Reader.pdf (71 pages)
+2026-01-16 13:11:49 [[32mINFO[0m] [557/1215] OK: FS 5 - Teacher Guide.pdf (305 pages)
+2026-01-16 13:12:07 [[32mINFO[0m] [558/1215] OK: FS 9 - Activity Book.pdf (66 pages)
+2026-01-16 13:12:07 [[32mINFO[0m] [559/1215] OK: FS 9 - Carta de bienvenida para las familias (en español).pdf (2 pages)
+2026-01-16 13:12:13 [[32mINFO[0m] [560/1215] OK: FS 9 - Digital Components_ Visuals.pdf (11 pages)
+2026-01-16 13:12:13 [[32mINFO[0m] Progress: 560/1215 (46.1%) | Pages: 40601 | Elapsed: 2h 3m
+2026-01-16 13:12:14 [[32mINFO[0m] [561/1215] OK: FS 9 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:12:47 [[32mINFO[0m] [562/1215] OK: FS 6 - Teacher Guide.pdf (261 pages)
+2026-01-16 13:13:03 [[32mINFO[0m] [563/1215] OK: FS 9 - Reader.pdf (68 pages)
+2026-01-16 13:13:29 [[32mINFO[0m] [564/1215] OK: FS 7 - Teacher Guide.pdf (260 pages)
+2026-01-16 13:13:31 [[32mINFO[0m] [565/1215] OK: K-5 Math Grade 3 Manipulatives Kit.pdf (4 pages)
+2026-01-16 13:13:45 [[32mINFO[0m] [566/1215] OK: K-5 Math Component Navigation Guide.pdf (24 pages)
+2026-01-16 13:13:56 [[32mINFO[0m] [567/1215] OK: K-5 Math Family Guide.pdf (14 pages)
+2026-01-16 13:13:59 [[32mINFO[0m] [568/1215] OK: K-5 Math Grade 3 Course Guide.pdf (83 pages)
+2026-01-16 13:14:01 [[32mINFO[0m] [569/1215] OK: Fluency Supplement - RLA.pdf (20 pages)
+2026-01-16 13:14:17 [[32mINFO[0m] [570/1215] OK: FS 8 - Teacher Guide.pdf (227 pages)
+2026-01-16 13:14:19 [[32mINFO[0m] [571/1215] OK: Pacing, Scope and Sequence - RLA.pdf (10 pages)
+2026-01-16 13:14:20 [[32mINFO[0m] [572/1215] OK: BLRLA_3-5_Lesson_IP_Coach_ENG.pdf (4 pages)
+2026-01-16 13:14:20 [[32mINFO[0m] [573/1215] OK: BLRLA_3-5_Lesson_IP_Teacher_ENG.pdf (1 pages)
+2026-01-16 13:14:22 [[32mINFO[0m] [574/1215] OK: BLRLA_3-5_Unit_IP_Teacher_ENG.pdf (1 pages)
+2026-01-16 13:14:22 [[32mINFO[0m] [575/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+2026-01-16 13:14:22 [[32mINFO[0m] [576/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 13:14:26 [[32mINFO[0m] [577/1215] OK: BLRLA_3-5_Unit_IP_Coach_ENG.pdf (4 pages)
+2026-01-16 13:14:41 [[32mINFO[0m] [578/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 13:14:42 [[32mINFO[0m] [579/1215] OK: K–5 RLA Trade Books.pdf (4 pages)
+2026-01-16 13:14:49 [[32mINFO[0m] [580/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 13:14:49 [[32mINFO[0m] Progress: 580/1215 (47.7%) | Pages: 41607 | Elapsed: 2h 5m
+2026-01-16 13:15:19 [[32mINFO[0m] [581/1215] OK: K-5 Math Program and Implementation Guide.pdf (80 pages)
+2026-01-16 13:15:32 [[32mINFO[0m] [582/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 13:15:34 [[32mINFO[0m] [583/1215] OK: Unit 10 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:15:35 [[32mINFO[0m] [584/1215] OK: Unit 10 - Exit Ticket.pdf (4 pages)
+2026-01-16 13:15:38 [[32mINFO[0m] [585/1215] OK: Unit 10 - Activity Book.pdf (81 pages)
+2026-01-16 13:15:38 [[32mINFO[0m] [586/1215] OK: FS 9 - Teacher Guide.pdf (228 pages)
+2026-01-16 13:16:22 [[32mINFO[0m] [587/1215] OK: Unit 1 - Activity Book.pdf (158 pages)
+2026-01-16 13:16:23 [[32mINFO[0m] [588/1215] OK: Unit 1 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:16:24 [[32mINFO[0m] [589/1215] OK: Unit 1 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:16:28 [[32mINFO[0m] [590/1215] OK: Unit 10 - Image Cards.pdf (37 pages)
+2026-01-16 13:16:28 [[32mINFO[0m] [591/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 13:16:51 [[32mINFO[0m] [592/1215] OK: Unit 1 - Flip Book.pdf (76 pages)
+2026-01-16 13:17:56 [[32mINFO[0m] [593/1215] OK: Unit 1 - Image Cards.pdf (60 pages)
+2026-01-16 13:18:35 [[32mINFO[0m] [594/1215] OK: Unit 1 - Reader.pdf (108 pages)
+2026-01-16 13:18:37 [[32mINFO[0m] [595/1215] OK: Unit 2 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:18:38 [[32mINFO[0m] [596/1215] OK: Unit 2 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:18:38 [[32mINFO[0m] [597/1215] OK: Unit 2 - Activity Book.pdf (189 pages)
+2026-01-16 13:19:16 [[32mINFO[0m] [598/1215] OK: Unit 2 - Flip Book.pdf (58 pages)
+2026-01-16 13:19:16 [[32mINFO[0m] [599/1215] OK: Unit 10 - Teacher Guide.pdf (207 pages)
+2026-01-16 13:20:04 [[32mINFO[0m] [600/1215] OK: Unit 3 - Activity Book.pdf (140 pages)
+2026-01-16 13:20:04 [[32mINFO[0m] Progress: 600/1215 (49.4%) | Pages: 43175 | Elapsed: 2h 11m
+2026-01-16 13:20:04 [[32mINFO[0m] [601/1215] OK: Unit 3 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:20:05 [[32mINFO[0m] [602/1215] OK: Unit 3 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:20:32 [[32mINFO[0m] [603/1215] OK: Unit 3 - Flip Book.pdf (67 pages)
+2026-01-16 13:20:40 [[32mINFO[0m] [604/1215] OK: Unit 2 - Reader.pdf (174 pages)
+2026-01-16 13:21:28 [[32mINFO[0m] [605/1215] OK: Unit 3 - Reader.pdf (124 pages)
+2026-01-16 13:22:02 [[32mINFO[0m] [606/1215] OK: Unit 4 - Activity Book.pdf (176 pages)
+2026-01-16 13:22:03 [[32mINFO[0m] [607/1215] OK: Unit 4 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:22:03 [[32mINFO[0m] [608/1215] OK: Unit 4 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:22:13 [[32mINFO[0m] [609/1215] OK: Unit 4 - Flip Book.pdf (41 pages)
+2026-01-16 13:22:42 [[32mINFO[0m] [610/1215] OK: Unit 1 - Teacher Guide.pdf (435 pages)
+2026-01-16 13:22:45 [[32mINFO[0m] [611/1215] OK: Unit 4 - Image Cards.pdf (27 pages)
+2026-01-16 13:24:07 [[32mINFO[0m] [612/1215] OK: Unit 2 - Teacher Guide.pdf (359 pages)
+2026-01-16 13:24:20 [[32mINFO[0m] [613/1215] OK: Unit 4 - Reader.pdf (155 pages)
+2026-01-16 13:24:20 [[32mINFO[0m] [614/1215] OK: Unit 5 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:24:20 [[32mINFO[0m] [615/1215] OK: Unit 5 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:24:33 [[32mINFO[0m] [616/1215] OK: Unit 3 - Teacher Guide.pdf (335 pages)
+2026-01-16 13:24:37 [[32mINFO[0m] [617/1215] OK: Unit 5 - Flip Book.pdf (69 pages)
+2026-01-16 13:24:41 [[32mINFO[0m] [618/1215] OK: Unit 5 - Activity Book.pdf (218 pages)
+2026-01-16 13:25:05 [[32mINFO[0m] [619/1215] OK: Unit 5 - Image Cards.pdf (42 pages)
+2026-01-16 13:25:41 [[32mINFO[0m] [620/1215] OK: Unit 6 - Activity Book.pdf (198 pages)
+2026-01-16 13:25:41 [[32mINFO[0m] Progress: 620/1215 (51.0%) | Pages: 45601 | Elapsed: 2h 16m
+2026-01-16 13:25:42 [[32mINFO[0m] [621/1215] OK: Unit 6 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:25:42 [[32mINFO[0m] [622/1215] OK: Unit 6 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:25:45 [[32mINFO[0m] [623/1215] OK: Unit 5 - Reader.pdf (151 pages)
+2026-01-16 13:26:06 [[32mINFO[0m] [624/1215] OK: Unit 6 - Flip Book.pdf (69 pages)
+2026-01-16 13:26:09 [[32mINFO[0m] [625/1215] OK: Unit 6 - Image Cards.pdf (25 pages)
+2026-01-16 13:27:02 [[32mINFO[0m] [626/1215] OK: Unit 4 - Teacher Guide.pdf (338 pages)
+2026-01-16 13:27:19 [[32mINFO[0m] [627/1215] OK: Unit 6 - Reader.pdf (112 pages)
+2026-01-16 13:27:20 [[32mINFO[0m] [628/1215] OK: Unit 7 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:27:20 [[32mINFO[0m] [629/1215] OK: Unit 7 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:27:26 [[32mINFO[0m] [630/1215] OK: Unit 7 - Activity Book.pdf (159 pages)
+2026-01-16 13:27:35 [[32mINFO[0m] [631/1215] OK: Unit 7 - Image Cards.pdf (10 pages)
+2026-01-16 13:27:47 [[32mINFO[0m] [632/1215] OK: Unit 7 - Flip Book.pdf (72 pages)
+2026-01-16 13:28:24 [[32mINFO[0m] [633/1215] OK: Unit 7 - Reader.pdf (84 pages)
+2026-01-16 13:28:50 [[32mINFO[0m] [634/1215] OK: Unit 5 - Teacher Guide.pdf (361 pages)
+2026-01-16 13:28:51 [[32mINFO[0m] [635/1215] OK: Unit 8 - English Family Support Letter.pdf (1 pages)
+2026-01-16 13:28:52 [[32mINFO[0m] [636/1215] OK: Unit 8 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:28:55 [[32mINFO[0m] [637/1215] OK: Unit 8 - Activity Book.pdf (184 pages)
+2026-01-16 13:28:59 [[32mINFO[0m] [638/1215] OK: Unit 8 - Image Cards.pdf (12 pages)
+2026-01-16 13:29:03 [[32mINFO[0m] [639/1215] OK: Unit 8 - Flip Book.pdf (51 pages)
+2026-01-16 13:30:17 [[32mINFO[0m] [640/1215] OK: Unit 8 - Reader.pdf (138 pages)
+2026-01-16 13:30:17 [[32mINFO[0m] Progress: 640/1215 (52.7%) | Pages: 47373 | Elapsed: 2h 21m
+2026-01-16 13:30:59 [[32mINFO[0m] [641/1215] OK: Unit 9 - Activity Book.pdf (204 pages)
+2026-01-16 13:31:00 [[32mINFO[0m] [642/1215] OK: Unit 9 - English Family Support Letter.pdf (2 pages)
+2026-01-16 13:31:01 [[32mINFO[0m] [643/1215] OK: Unit 9 - Essential Questions and Prompts.pdf (1 pages)
+2026-01-16 13:31:14 [[32mINFO[0m] [644/1215] OK: Unit 9 - Flip Book.pdf (56 pages)
+2026-01-16 13:31:20 [[32mINFO[0m] [645/1215] OK: Unit 9 - Image Cards.pdf (10 pages)
+2026-01-16 13:31:25 [[32mINFO[0m] [646/1215] OK: Unit 7 - Teacher Guide.pdf (307 pages)
+2026-01-16 13:31:30 [[32mINFO[0m] [647/1215] OK: Unit 6 - Teacher Guide.pdf (387 pages)
+2026-01-16 13:32:18 [[32mINFO[0m] [648/1215] OK: K-5 Math Grade 4 Course Guide.pdf (82 pages)
+2026-01-16 13:32:20 [[32mINFO[0m] [649/1215] OK: K-5 Math Grade 4 Manipulatives Kit.pdf (3 pages)
+2026-01-16 13:32:28 [[32mINFO[0m] [650/1215] OK: K-5 Math Component Navigation Guide.pdf (24 pages)
+2026-01-16 13:32:39 [[32mINFO[0m] [651/1215] OK: K-5 Math Family Guide.pdf (14 pages)
+2026-01-16 13:33:24 [[32mINFO[0m] [652/1215] OK: Unit 9 - Reader.pdf (251 pages)
+2026-01-16 13:33:24 [[32mINFO[0m] [653/1215] OK: Bluebonnet Learning RLA Grade 4 Anthology.pdf (1 pages)
+2026-01-16 13:33:36 [[32mINFO[0m] [654/1215] OK: Fluency Supplement.pdf (103 pages)
+2026-01-16 13:33:45 [[32mINFO[0m] [655/1215] OK: Unit 8 - Teacher Guide.pdf (368 pages)
+2026-01-16 13:33:45 [[32mINFO[0m] [656/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+2026-01-16 13:33:45 [[32mINFO[0m] [657/1215] OK: Family Welcome Letter - Spanish.pdf (1 pages)
+2026-01-16 13:33:52 [[32mINFO[0m] [658/1215] OK: Pacing and Scope & Sequence Guide.pdf (9 pages)
+2026-01-16 13:33:54 [[32mINFO[0m] [659/1215] OK: K-5 Math Program and Implementation Guide.pdf (80 pages)
+2026-01-16 13:33:54 [[32mINFO[0m] [660/1215] OK: K–5 RLA Trade Books.pdf (4 pages)
+2026-01-16 13:33:54 [[32mINFO[0m] Progress: 660/1215 (54.3%) | Pages: 49281 | Elapsed: 2h 25m
+2026-01-16 13:34:03 [[32mINFO[0m] [661/1215] OK: Observation Tool.pdf (1 pages)
+2026-01-16 13:34:08 [[32mINFO[0m] [662/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+2026-01-16 13:34:34 [[32mINFO[0m] [663/1215] OK: Unit 10 Activity Book G4.pdf (106 pages)
+2026-01-16 13:34:39 [[32mINFO[0m] [664/1215] OK: Program and Implementation Guide .pdf (83 pages)
+2026-01-16 13:34:39 [[32mINFO[0m] [665/1215] OK: Unit 10 English Family Support Letter G4.pdf (1 pages)
+2026-01-16 13:34:41 [[32mINFO[0m] [666/1215] OK: Unit 10 Digital Components Visuals G4.pdf (32 pages)
+2026-01-16 13:34:42 [[32mINFO[0m] [667/1215] OK: Unit 10 Spanish Family Support Letter G4.pdf (1 pages)
+2026-01-16 13:34:43 [[32mINFO[0m] [668/1215] OK: Unit 10 Exit Ticket G4.pdf (6 pages)
+2026-01-16 13:35:22 [[32mINFO[0m] [669/1215] OK: Unit 1 Activity Book G4.pdf (214 pages)
+2026-01-16 13:35:27 [[32mINFO[0m] [670/1215] OK: Unit 1 Digital Components Visuals G4.pdf (24 pages)
+2026-01-16 13:35:28 [[32mINFO[0m] [671/1215] OK: Unit 1 English Family Support Letter G4.pdf (1 pages)
+2026-01-16 13:35:28 [[32mINFO[0m] [672/1215] OK: Unit 1 Essential Questions and Prompts G4.pdf (1 pages)
+2026-01-16 13:35:32 [[32mINFO[0m] [673/1215] OK: Unit 1 Reader G4.pdf (21 pages)
+2026-01-16 13:35:32 [[32mINFO[0m] [674/1215] OK: Unit 1 Spanish Family Support Letter G4.pdf (1 pages)
+2026-01-16 13:35:36 [[32mINFO[0m] [675/1215] OK: Independent Reading Guide.pdf (54 pages)
+2026-01-16 13:36:06 [[32mINFO[0m] [676/1215] OK: Unit 2 Activity book G4.pdf (88 pages)
+2026-01-16 13:36:11 [[32mINFO[0m] [677/1215] OK: Unit 2 Digital Components 2 Video Scripts G4.pdf (31 pages)
+2026-01-16 13:36:17 [[32mINFO[0m] [678/1215] OK: Unit 2 Digital Components 4 Judges Notes G4.pdf (20 pages)
+2026-01-16 13:36:21 [[32mINFO[0m] [679/1215] OK: Unit 2 Digital Components Visuals G4.pdf (19 pages)
+2026-01-16 13:37:21 [[31mERROR[0m] [680/1215] FAILED: Unit 10 Teacher Guide G4.pdf - [Errno 2] No such file or directory: 'C:\\Users\\brian.edwards\\elementary\\docs\\curriculum\\Bluebonnet Learning Grade 4 Reading Language Arts,\\course files\\RLA G4 Unit 10_ Novel Study_ Number the Stars\\Unit 10 Teacher Guide G4.md'
+2026-01-16 13:37:21 [[41mCRITICAL[0m] 
+2026-01-16 13:37:21 [[41mCRITICAL[0m] ============================================================
+2026-01-16 13:37:21 [[41mCRITICAL[0m] FATAL ERROR - STOPPING
+2026-01-16 13:37:21 [[41mCRITICAL[0m] ============================================================
+2026-01-16 13:37:21 [[41mCRITICAL[0m] Conversion failed for Unit 10 Teacher Guide G4.pdf: [Errno 2] No such file or directory: 'C:\\Users\\brian.edwards\\elementary\\docs\\curriculum\\Bluebonnet Learning Grade 4 Reading Language Arts,\\course files\\RLA G4 Unit 10_ Novel Study_ Number the Stars\\Unit 10 Teacher Guide G4.md'
+2026-01-16 13:37:21 [[41mCRITICAL[0m] ============================================================
+13:56:18 [INFO] 
+13:56:18 [INFO] ============================================================
+13:56:18 [INFO] PDF TO MARKDOWN CONVERTER (PARALLEL)
+13:56:18 [INFO] ============================================================
+13:56:18 [INFO] Input:   ..\sources\bluebonnet
+13:56:18 [INFO] Output:  ..\docs\curriculum
+13:56:18 [INFO] Workers: 4
+13:56:18 [INFO] Force:   True
+13:56:18 [INFO] ============================================================
+13:56:18 [INFO] Scanning for PDF files...
+13:56:18 [INFO]   TEST MODE: Limited to 3 files
+13:56:18 [INFO]   Found 3 PDF files
+13:56:18 [INFO] 
+13:56:18 [INFO] Starting 4 parallel workers...
+13:56:18 [INFO] 
+13:56:20 [INFO] [1/3] OK: Large Letter Cards.pdf (117 pages)
+13:56:20 [INFO] [2/3] OK: Consonant Code Flip Book.pdf (56 pages)
+13:56:20 [INFO] [3/3] OK: Individual Code Chart.pdf (22 pages)
+13:56:20 [INFO] 
+13:56:20 [INFO] ============================================================
+13:56:20 [INFO] CONVERSION COMPLETE
+13:56:20 [INFO] ============================================================
+13:56:20 [INFO] Total files:  3
+13:56:20 [INFO] Converted:    3
+13:56:20 [INFO] Skipped:      0
+13:56:20 [INFO] Failed:       0
+13:56:20 [INFO] Total pages:  195
+13:56:20 [INFO] Time elapsed: 2.1 seconds
+13:56:20 [INFO] ============================================================
+13:57:05 [INFO] 
+13:57:05 [INFO] ============================================================
+13:57:05 [INFO] PDF TO MARKDOWN CONVERTER (PARALLEL)
+13:57:05 [INFO] ============================================================
+13:57:05 [INFO] Input:   ..\sources\bluebonnet
+13:57:05 [INFO] Output:  ..\docs\curriculum
+13:57:05 [INFO] Workers: 4
+13:57:05 [INFO] Force:   True
+13:57:05 [INFO] ============================================================
+13:57:05 [INFO] Scanning for PDF files...
+13:57:05 [INFO]   Found 1215 PDF files
+13:57:05 [INFO] 
+13:57:05 [INFO] Starting 4 parallel workers...
+13:57:05 [INFO] 
+13:57:06 [INFO] [1/1215] OK: Large Letter Cards.pdf (117 pages)
+13:57:07 [INFO] [2/1215] OK: Consonant Code Flip Book.pdf (56 pages)
+13:57:07 [INFO] [3/1215] OK: Individual Code Chart.pdf (22 pages)
+13:57:07 [INFO] [4/1215] OK: Spelling Cards.pdf (150 pages)
+13:57:07 [INFO] [5/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+13:57:07 [INFO] [6/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+13:57:07 [INFO] [7/1215] OK: Vowel Code Flip Book.pdf (42 pages)
+13:57:14 [INFO] [8/1215] OK: Observation Tool.pdf (1 pages)
+13:57:20 [INFO] [9/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+13:57:38 [INFO] [10/1215] OK: Program and Implementation Guide .pdf (83 pages)
+13:57:40 [INFO] [11/1215] OK: FS 1 - Digital Components.pdf (16 pages)
+13:57:41 [INFO] [12/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+13:57:48 [INFO] [13/1215] OK: FS 1 - Activity Book.pdf (208 pages)
+13:58:38 [INFO] [14/1215] OK: Independent Reading Guide.pdf (54 pages)
+13:58:50 [INFO] [15/1215] OK: FS 1 - Reader.pdf (47 pages)
+13:59:12 [INFO] [16/1215] OK: FS 2 - Big Book.pdf (114 pages)
+13:59:14 [INFO] [17/1215] OK: FS 2 - Digital Components_ Visuals.pdf (18 pages)
+13:59:15 [INFO] [18/1215] OK: FS 2 - English Family Support Letter.pdf (2 pages)
+13:59:16 [INFO] [19/1215] OK: FS 2 - Activity Book.pdf (168 pages)
+13:59:30 [INFO] [20/1215] OK: FS 1 - Big Book.pdf (47 pages)
+13:59:30 [INFO] Progress: 20/1215 (1.6%) | Pages: 1165 | Elapsed: 2m 24s
+13:59:40 [INFO] [21/1215] OK: FS 2 - Reader.pdf (114 pages)
+14:00:00 [INFO] [22/1215] OK: FS 3 - Activity Book.pdf (132 pages)
+14:00:04 [INFO] [23/1215] OK: FS 3 - Digital Components_ Visuals.pdf (24 pages)
+14:00:05 [INFO] [24/1215] OK: FS 3 - English Family Support Letter.pdf (2 pages)
+14:00:18 [INFO] [25/1215] OK: FS 1 - Teacher Guide.pdf (330 pages)
+14:00:37 [INFO] [26/1215] OK: FS 3 - Reader.pdf (88 pages)
+14:01:27 [INFO] [27/1215] OK: FS 4 - Activity Book.pdf (186 pages)
+14:01:34 [INFO] [28/1215] OK: FS 4 - Digital Components_ Visuals.pdf (40 pages)
+14:01:35 [INFO] [29/1215] OK: FS 4 - English Family Support Letter.pdf (1 pages)
+14:01:46 [INFO] [30/1215] OK: FS 2 - Teacher Guide.pdf (315 pages)
+14:02:12 [INFO] [31/1215] OK: FS 3 - Big Book.pdf (88 pages)
+14:02:22 [INFO] [32/1215] OK: FS 4 - Reader.pdf (96 pages)
+14:02:27 [INFO] [33/1215] OK: FS 5 - Digital Components_ Visuals.pdf (38 pages)
+14:02:27 [INFO] [34/1215] OK: FS 5 - English Family Support Letter.pdf (1 pages)
+14:02:57 [INFO] [35/1215] OK: FS 5 - Activity Book.pdf (181 pages)
+14:03:05 [INFO] [36/1215] OK: FS 3 - Teacher Guide.pdf (328 pages)
+14:03:29 [INFO] [37/1215] OK: FS 6 - Activity Book.pdf (184 pages)
+14:03:33 [INFO] [38/1215] OK: FS 6 - Digital Components_ Visuals.pdf (38 pages)
+14:03:33 [INFO] [39/1215] OK: FS 6 - English Family Support Letter.pdf (1 pages)
+14:03:59 [INFO] [40/1215] OK: FS 6 - Reader.pdf (103 pages)
+14:03:59 [INFO] Progress: 40/1215 (3.3%) | Pages: 3455 | Elapsed: 6m 54s
+14:04:00 [INFO] [41/1215] OK: FS 5 - Reader.pdf (97 pages)
+14:04:22 [INFO] [42/1215] OK: FS 7 - Activity Book.pdf (134 pages)
+14:04:27 [INFO] [43/1215] OK: FS 7 - Digital Components_ Visuals.pdf (33 pages)
+14:04:28 [INFO] [44/1215] OK: FS 7 - English Family Support Letter.pdf (1 pages)
+14:05:22 [INFO] [45/1215] OK: FS 4 - Teacher Guide.pdf (432 pages)
+14:06:02 [INFO] [46/1215] OK: FS 7 - Reader.pdf (96 pages)
+14:06:03 [INFO] [47/1215] OK: Consonant Code Flip Book.pdf (56 pages)
+14:06:04 [INFO] [48/1215] OK: Individual Code Chart.pdf (22 pages)
+14:06:05 [INFO] [49/1215] OK: Large Letter Cards.pdf (117 pages)
+14:06:14 [INFO] [50/1215] OK: FS 5 - Teacher Guide.pdf (390 pages)
+14:06:16 [INFO] [51/1215] OK: Spelling Cards.pdf (150 pages)
+14:06:16 [INFO] [52/1215] OK: Pacing, Scope and Sequence - Foundational Skills.pdf (9 pages)
+14:06:16 [INFO] [53/1215] OK: Carta de apoyo para las familias, en español.pdf (1 pages)
+14:06:16 [INFO] [54/1215] OK: Family Welcome Letter - English.pdf (1 pages)
+14:06:17 [INFO] [55/1215] OK: Vowel Code Flip Book.pdf (42 pages)
+14:06:17 [INFO] [56/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Teacher.pdf (1 pages)
+14:06:18 [INFO] [57/1215] OK: GK-3 Foundational Skills Lesson Internalization Protocol for Coach.pdf (4 pages)
+14:06:19 [INFO] [58/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Teacher.pdf (1 pages)
+14:06:20 [INFO] [59/1215] OK: GK-3 Foundational Skills Unit Internalization Protocol for Coach.pdf (4 pages)
+14:06:33 [INFO] [60/1215] OK: K-5 RLA Component Navigation Guide.pdf (16 pages)
+14:06:33 [INFO] Progress: 60/1215 (4.9%) | Pages: 5062 | Elapsed: 9m 28s
+14:06:39 [INFO] [61/1215] OK: Observation Tool.pdf (1 pages)
+14:07:08 [INFO] [62/1215] OK: Program and Implementation Guide .pdf (83 pages)
+14:07:40 [INFO] [63/1215] OK: FS 6 - Teacher Guide.pdf (423 pages)
+14:07:41 [INFO] [64/1215] OK: FS 1 - Activity Book.pdf (208 pages)
+14:07:42 [INFO] [65/1215] OK: FS 1 - Carta de apoyo para las familias, en españolpdf.pdf (2 pages)
+14:07:44 [INFO] [66/1215] OK: FS 1 - Digital Components.pdf (16 pages)
+14:07:45 [INFO] [67/1215] OK: Independent Reading Guide.pdf (54 pages)
+14:07:45 [INFO] [68/1215] OK: FS 1 - English Family Support Letter.pdf (2 pages)
+14:07:47 [INFO] [69/1215] OK: FS 7 - Teacher Guide.pdf (301 pages)
