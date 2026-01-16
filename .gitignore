@@ -1,0 +1,45 @@
+# Google APIs credentials
+credentials.json
+
+# Files that contain Student PII and should be git ignored.
+student-pii-gitignore/
+
+# log files for tooling
+download.log
+
+# Secrets - NEVER commit
+.env
+*.env
+.env.*
+secrets/
+credentials/
+
+# Student PII - NEVER commit
+**/student_data/
+**/pii/
+**/grades/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Downloaded content (large files)
+sources/bluebonnet/*/
+sources/**/manifest.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
